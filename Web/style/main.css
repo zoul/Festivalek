@@ -10,6 +10,8 @@ body {
     height: 100%;
 }
 
+/* Sidebar */
+
 #sidebar {
     position: absolute;
     width: 40%;
@@ -27,6 +29,8 @@ body {
     right: 30px;
     top: 40px;
 }
+
+/* Logo */
 
 h1 {
     width: 260px;
@@ -52,6 +56,8 @@ h1, h2, #menu {
     text-transform: uppercase;
 }
 
+/* Menu */
+
 ul#menu {
     list-style: none;
     text-align: right;
@@ -69,14 +75,20 @@ ul#menu a, ul#menu a:visited {
     position: relative;
 }
 
-#pick {
+body.informace #menu li.informace a:after,
+body.program   #menu li.program   a:after,
+body.panteri   #menu li.panteri   a:after {
+    content: "";
     position: absolute;
+    display: inline-block;
+    background: url(/img/pick.png);
     top: -30px;
     right: -110px;
     width: 97px;
     height: 85px;
-    background: url(/img/pick.png);
 }
+
+/* Content */
 
 #content {
     margin-left: 40%;
