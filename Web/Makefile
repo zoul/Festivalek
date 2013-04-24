@@ -4,7 +4,7 @@ build:
 	jekyll
 
 server:
-	jekyll --server --auto&
+	jekyll --server --auto
 
 upload: build
 	rsync -pvtrlL --cvs-exclude --delete _site/ cirdan:websites/festivalek.cz
