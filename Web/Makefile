@@ -1,7 +1,7 @@
 all: upload
 
 build:
-	jekyll
+	jekyll build
 
 server:
 	jekyll serve --watch
