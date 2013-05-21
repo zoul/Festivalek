@@ -82,6 +82,7 @@ ul#menu a, ul#menu a:visited {
 
 body.informace #menu li.informace a:after,
 body.program   #menu li.program   a:after,
+body.fotky     #menu li.fotky     a:after,
 body.panteri   #menu li.panteri   a:after {
     content: "";
     position: absolute;
@@ -125,4 +126,11 @@ a, a:visited {
 
 .role.inline:before {
     content: "· ";
+}
+
+/* Photos */
+
+#gallery {
+    font: 0px/0px serif;
+    width: 550px;
 }
