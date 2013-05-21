@@ -1,6 +1,7 @@
 window.onload = function()
 {
-    var padding = 5;
+    var PADDING = 5;
+
     var images = document.getElementsByTagName("img");
     var maxWidth = document.getElementById("gallery").offsetWidth - 2;
 
@@ -8,19 +9,36 @@ window.onload = function()
         var wrapper = document.createElement("div");
         wrapper.style.display = "inline-block";
         wrapper.style.overflow = "hidden";
-        wrapper.style.marginBottom = padding + "px";
-        wrapper.style.marginRight = padding + "px";
+        wrapper.style.marginBottom = PADDING + "px";
+        wrapper.style.marginRight = PADDING + "px";
         element.style.marginLeft = "-" + amount + "px";
         element.parentNode.insertBefore(wrapper, element);
         wrapper.appendChild(element);
     };
 
-    var layoutLine = function(batch, overhang) {
-        var clipWidth = Math.ceil(overhang / batch.length);
-        var clipError = overhang - (clipWidth * batch.length);
-        for (var j=0; j<batch.length; j++) {
-            var roundingBonus = (j == 0) ? clipError : 0;
-            clipBy(batch[j], clipWidth + roundingBonus);
+    var isLandscape = function(image) {
+        return (image.width > image.height);
+    }
+
+    var filter = function(array, predicate) {
+        var result = [];
+        for (var i=0; i<array.length; i++)
+            if (predicate(array[i]))
+                result.push(array[i]);
+        return result;
+    }
+
+    var layoutLine = function(images, overhang) {
+        var landscapeImageCount = filter(images, isLandscape).length;
+        var clipStep = Math.ceil(overhang / landscapeImageCount);
+        var roundingError = overhang - clipStep * landscapeImageCount;
+        for (var j=0; j<images.length; j++) {
+            if (isLandscape(images[j])) {
+                clipBy(images[j], clipStep + roundingError);
+                roundingError = 0;
+            } else {
+                clipBy(images[j], 0);
+            }
         }
     };
 
@@ -32,7 +50,7 @@ window.onload = function()
         image = images[i++];
         lineWidth += image.width;
         batch.push(image);
-        var overhang = (lineWidth - maxWidth) + padding * batch.length;
+        var overhang = (lineWidth - maxWidth) + PADDING * batch.length;
         if (overhang >= 0) {
             layoutLine(batch, overhang);
             lineWidth = 0;
