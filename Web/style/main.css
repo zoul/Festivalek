@@ -134,3 +134,7 @@ a, a:visited {
     font: 0px/0px serif;
     width: 550px;
 }
+
+#gallery div {
+    box-shadow: 1px 1px 2px rgba(80, 80, 80, 0.7);
+}

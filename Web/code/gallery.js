@@ -1,6 +1,6 @@
 window.onload = function()
 {
-    var PADDING = 5;
+    var PADDING = 10;
 
     var images = document.getElementsByTagName("img");
     var maxWidth = document.getElementById("gallery").offsetWidth - 2;
