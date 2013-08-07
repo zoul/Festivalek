@@ -149,3 +149,9 @@ a, a:visited {
     margin-right: 20px;
     float: left;
 }
+
+/* Lineup */
+
+.lineup {
+    border-top: 1px solid silver;
+}
