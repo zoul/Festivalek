@@ -101,6 +101,7 @@ body.panteri   #menu li.panteri   a:after {
     padding: 40px;
     padding-top: 50px;
     padding-left: 50px;
+    width: 650px;
 }
 
 ul.facts {
