@@ -133,11 +133,17 @@ a, a:visited {
 
 #gallery {
     font: 0px/0px serif;
-    width: 550px;
+    width: 580px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
 }
 
-#gallery div {
-    box-shadow: 1px 1px 2px rgba(80, 80, 80, 0.7);
+#gallery a {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid silver;
 }
 
 /* Panters */
