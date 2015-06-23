@@ -4,67 +4,21 @@ title: Program | Festiválek bez bojů a válek
 class: program
 ---
 
-<p>Letošní Festiválek se bude konat v pátek a sobotu 15–16. srpna, vstupné
-dobrovolné. <a href="/downloads/plakat.pdf">Plakát je ke stažení tady</a>.
-Začínáme v pátek v Kafe za rohem:</p>
+<p>Letošní Festiválek se bude konat v pátek až neděli 7–9. srpna, vstupné
+dobrovolné. <a href="/downloads/plakat.pdf">Plakát je ke stažení tady</a>.</p>
 
 <div class="lineup">
-    <h2>pá 19.00 Hovaduo</h2>
-    <img src="/img/kapely/hovaduo.jpg">
-    <p>
-        <a href="http://bandzone.cz/_78458">web</a>
-    </p>
-    <h2>pá 20.30 Zapaska</h2>
-    <img src="/img/kapely/zapaska.jpg">
-    <p>
-        <a href="http://zapaskamusic.com/">web</a>,
-        <a href="https://www.youtube.com/watch?v=vxCTzUP3vRI">video</a>
-    </p>
-</div>
-
-<p>V pátek také proběhne zahajovací vernisáž obrazů Kláry Pliskové; výstava pak
-v Kafe Za rohem potrvá nejen během Festiválku. Hlavní sobotní program na scéně
-za muzeem je následující:</p>
-
-<div class="lineup">
-    <h2>so 15.00–16.00 divadlo Lísky vs. Instalatéři</h2>
-    <img src="/img/kapely/lisky.jpg">
-    <h2>so 16.30–17.30 Žofie Kabelková</h2>
-    <img src="/img/kapely/zofie.jpg">
-    <p>
-        <a href="http://www.zofiekabelkova.com/">web</a>,
-        <a href="http://www.youtube.com/watch?v=iiLxUtvj0Gg">video</a>
-    </p>
-    <h2>so 18.00–19.00 Trní</h2>
-    <img src="/img/kapely/trni.jpg">
-    <p>
-        <a href="http://bandzone.cz/trni">web</a>,
-        <a href="https://www.youtube.com/watch?v=YopNTRozcC4">video</a>
-    </p>
-    <h2>so 19.30–20.30 Tarafuki</h2>
-    <img src="/img/kapely/tarafuki.jpg">
-    <p>
-        <a href="http://tarafuki.eu/">web</a>,
-        <a href="https://www.youtube.com/watch?v=EPVsfwxYJqY">video</a>
-    </p>
-    <h2>so 21.00–22.00 CVTVTR (IT)</h2>
-    <img src="/img/kapely/cvtvtr.jpg">
-    <p>
-        <a href="http://crtvtr.bandcamp.com/album/here-it-comes-tramontane">web</a>,
-        <a href="https://www.youtube.com/watch?v=sBsx_tbKEZA">video</a>
-    </p>
-    <h2>so 22.30–23.30 Rocky Leon (USA)</h2>
-    <img src="/img/kapely/leon.jpg">
-    <p>
-        <a href="http://www.rockyleon.com/">web</a>,
-        <a href="https://www.youtube.com/watch?v=MEeCL0VUCF0">video</a>
-    </p>
-    <h2>so 00.00–01.00 Fuera Fondo (SK)</h2>
-    <img src="/img/kapely/fondo.jpg">
-    <p>
-        <a href="http://www.fuerafondo.com/">web</a>,
-        <a href="https://www.youtube.com/watch?v=8bg_QOQL_O8">video</a>
-    </p>
+    {% for band in site.data.lineup %}
+    <h2>{{ band.kdo }} <small>{{ band.kdy }} {{ band.kde }}</small></h2>
+    <img src="{{ band.fotka }}">
+    {% if band.odkazy %}
+        <ul class="link-list">
+        {% for url in band.odkazy %}
+            <li><a href="{{ url }}">{{ url | remove:'http://' | remove_first:'www.' | split:'/' | first }}</a>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    {% endfor %}
 </div>
 
 <p>Sledujte web a <a href="http://on.fb.me/ZFKgmb">Facebook</a>, všechno

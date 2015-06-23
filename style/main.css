@@ -22,7 +22,7 @@ body {
     right: 0;
     background: url(/img/blue.png);
     box-shadow: 2px 2px 7px rgba(80, 80, 80, 0.7);
-    color: white;
+    color: rgb(31, 62, 78);
 }
 
 #sidebar .content {
@@ -38,6 +38,7 @@ h1 {
     padding-top: 280px;
     line-height: 1em;
     background: url(/img/logo.png) top left no-repeat;
+    background-size: contain;
     text-align: center;
 }
 
@@ -72,7 +73,7 @@ ul#menu {
 }
 
 ul#menu a, ul#menu a:visited {
-    color: white;
+    color: rgb(31, 62, 78);
     text-decoration: none;
 }
 
@@ -162,4 +163,35 @@ a, a:visited {
 .lineup {
     border-top: 1px solid silver;
     border-bottom: 1px solid silver;
+    padding-bottom: 20px;
+}
+
+.lineup img {
+    width: 650px;
+    height: 120px;
+}
+
+.lineup h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h2 small {
+    color: gray;
+    white-space: nowrap;
+}
+
+ul.link-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.link-list li {
+    display: inline-block;
+}
+
+.link-list li:not(:last-child):after {
+    content: "/ ";
+    display: inline-block;
 }
