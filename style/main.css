@@ -158,6 +158,11 @@ a, a:visited {
     float: left;
 }
 
+.panter img {
+    width: 100%;
+    height: auto;
+}
+
 /* Lineup */
 
 .lineup {

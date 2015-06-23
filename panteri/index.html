@@ -4,62 +4,13 @@ title: Panteři | Festiválek bez bojů a válek
 class: panteri
 ---
 
+{% for panter in site.data.panteri %}
 <div class="panter">
-    <a href="http://www.pivovarcernahora.cz">
-        <img src="/img/panteri/ch.png" alt="Pivovar Černá Hora"></a>
+    {% if panter.url %}
+    <a href="{{ panter.url }}">
+        <img src="/img/panteri/{{ panter.id }}.png" alt="{{ panter.jmeno }}"></a>
+    {% else %}
+    <img src="/img/panteri/{{ panter.id }}.png" alt="{{ panter.jmeno }}">
+    {% endif %}
 </div>
-<div class="panter">
-    <a href="http://www.karroh.eu/">
-        <img src="/img/panteri/karroh.png" alt="Karroh"></a>
-</div>
-<div class="panter">
-    <a href="http://na-ceste.cz/">
-        <img src="/img/panteri/naceste.png" alt="Zdravá výživa Na cestě"></a>
-</div>
-<div class="panter">
-    <a href="http://www.bares-bambas.cz">
-        <img src="/img/panteri/bambas.png" alt="Elektroodpady Bambas"></a>
-</div>
-<div class="panter">
-    <a href="http://www.pmpkovo.cz">
-        <img src="/img/panteri/kovo.png" alt="PMP Kovo"></a>
-</div>
-<div class="panter">
-    <a href="http://www.teknika-cz.cz">
-        <img src="/img/panteri/teknika.png" alt="Teknika"></a>
-</div>
-<div class="panter">
-    <a href="http://www.zverex.com">
-        <img src="/img/panteri/zverex.png" alt="Zverex Novotný"></a>
-</div>
-<div class="panter">
-    <a href="http://www.colorprofi.cz/">
-        <img src="/img/panteri/colorprofi.png" alt="ColorProfi"></a>
-</div>
-<div class="panter">
-    <a href="http://www.topnet.cz/">
-        <img src="/img/panteri/topnet.png" alt="TOPNET"></a>
-</div>
-<div class="panter">
-    <a href="http://kooplast.cz/">
-        <img src="/img/panteri/kooplast.png" alt="Kooplast"></a>
-</div>
-<div class="panter">
-        <img src="/img/panteri/prazska5.png" alt="Pražská 5"></a>
-</div>
-<div class="panter">
-    <a href="http://jidelnaklasek.cz">
-        <img src="/img/panteri/klasek.png" alt="Vegetariánská jídelna Klásek"></a>
-</div>
-<div class="panter">
-    <a href="http://sgprint.cz/">
-        <img src="/img/panteri/sg.png" alt="SG print"></a>
-</div>
-<div class="panter">
-    <a href="http://artreklama.cz/">
-        <img src="/img/panteri/art.png" alt="ART reklama"></a>
-</div>
-<div class="panter">
-    <a href="http://valnoha.cz/">
-        <img src="/img/panteri/valnoha.png" alt="Brašnářství Valnoha"></a>
-</div>
+{% endfor %}
