@@ -39,3 +39,6 @@
 - id: ekodomov
   jmeno: Ekodomov
   url: http://www.eko-domov.cz/
+- id: ohlasy
+  jmeno: Ohlasy
+  url: http://ohlasy.info
