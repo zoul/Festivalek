@@ -166,9 +166,7 @@ a, a:visited {
 /* Lineup */
 
 .lineup {
-    border-top: 1px solid silver;
-    border-bottom: 1px solid silver;
-    padding-bottom: 20px;
+    border-bottom: 4px solid silver;
 }
 
 .lineup img {
@@ -179,6 +177,11 @@ a, a:visited {
 .lineup h2 {
     margin-top: 30px;
     margin-bottom: 10px;
+}
+
+h2.day {
+    border-bottom: 4px solid silver;
+    margin-top: 40px;
 }
 
 h2 small {
