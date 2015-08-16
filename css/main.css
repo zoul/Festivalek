@@ -95,7 +95,7 @@ body.fotky     #menu li.fotky     a:after {
     display: inline-block;
     background: url(/img/pick.png) top left no-repeat;
     background-size: contain;
-    top: -70px;
+    bottom: -65px;
     left: 7px;
     width: 58px;
     height: 65px;
