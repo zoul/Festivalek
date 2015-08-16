@@ -3,27 +3,43 @@
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/style/main.css">
-    <script src="/lib/analytics.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/lib/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" />
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 <body class="{{ page.class }}">
-    <div id="sidebar">
-        <div class="content">
+    
+    <div id="navigation">
+        <div class="container content">
             <h1>
                 Festi<span class="kern">v</span>álek
                 <span class="subtitle">bez bojů a válek</span>
             </h1>
             <ul id="menu">
-                <li class="informace"><a href="/informace/">Informace</a></li>
-                <li class="program"><a href="/program/">Program</a></li>
-                <li class="panteri"><a href="/panteri/">Panteři</a></li>
                 <li class="fotky"><a href="/fotky/">Fotky</a></li>
+                <li class="informace"><a href="/informace/">Kontakt</a></li>
                 <li><a href="http://on.fb.me/ZFKgmb">Facebook</a></li>
             </ul>
         </div>
     </div>
-    <div id="content">
+
+    <div class="container">
         {{ content }}
     </div>
+
+    {% include footer.html %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/lib/analytics.js"></script>
+    <script src="/lib/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+    <script>
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+    </script>
+
 </body>
 </html>

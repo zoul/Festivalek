@@ -1,0 +1,152 @@
+body {
+    background: url(/img/paper.png);
+}
+
+/* Typography */
+
+body {
+    font-family: "Palatino Linotype", Palatino, serif;
+    font-size: 18px;
+    line-height: 1.5em;
+    color: #444;
+}
+
+h1, h2 {
+    font-size: 160%;
+}
+
+/* Header */
+
+#navigation {
+    background: url(/img/blue.png);
+    box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
+    padding: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    width: 200px;
+    margin: auto;
+    padding-top: 230px;
+    margin-top: 0;
+    line-height: 1em;
+    background: url(/img/logo.png) top left no-repeat;
+    background-size: contain;
+}
+
+h1 .subtitle {
+    text-transform: none;
+    font-style: italic;
+    white-space: nowrap;
+    font-size: 90%;
+}
+
+.kern {
+    letter-spacing: -0.15em;
+}
+
+h1, h2, #menu {
+    text-transform: uppercase;
+}
+
+#navigation .content {
+    text-align: center;
+}
+
+/* Menu */
+
+#menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 120%;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#menu li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+}
+
+#menu li:not(:last-child):after {
+    content: "/";
+    color: white;
+    padding-left: 3px;
+    padding-right: 0px;
+}
+
+#menu a {
+    color: #444;
+    text-decoration: none;
+}
+
+/* Pick */
+
+
+body.informace #menu li.informace a:after,
+body.program   #menu li.program   a:after,
+body.fotky     #menu li.fotky     a:after {
+    content: "";
+    position: absolute;
+    display: inline-block;
+    background: url(/img/pick.png) top left no-repeat;
+    background-size: contain;
+    top: -70px;
+    left: 7px;
+    width: 58px;
+    height: 65px;
+}
+
+/* Footer */
+
+#footer {
+    margin-top: 30px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    background: url(/img/blue.png);
+    box-shadow: 0px -2px 3px rgba(80, 80, 80, 0.5);
+    color: white;
+}
+
+/* Contacts */
+
+ul.facts {
+    padding: 0;
+    margin: 0;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card .role {
+    color: grey;
+    font-style: italic;
+}
+
+.role.inline:before {
+    content: "· ";
+}
+
+/* Partners */
+
+.partner {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.partner img {
+    width: 100px;
+    height: 60px;
+}
+
+/* Photos */
+
+.gallery {
+    margin-top: 20px;
+}
