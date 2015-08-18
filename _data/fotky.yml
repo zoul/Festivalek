@@ -1,4 +1,5 @@
 - rocnik: 2015
+  autor: Jan Zemánek, Jakub Vichta
   fotky:
     - 01.jpg
     - 02.jpg
@@ -51,6 +52,8 @@
     - 49.jpg
     - 50.jpg
 - rocnik: 2014
+  autor: Michal Ševčík
+  url: http://sevcikmichal.cz/
   fotky:
     - 01.jpg
     - 02.jpg
@@ -88,6 +91,8 @@
     - 34.jpg
     - 35.jpg
 - rocnik: 2013
+  autor: Michal Ševčík
+  url: http://sevcikmichal.cz/
   fotky:
     - 01.jpg
     - 02.jpg

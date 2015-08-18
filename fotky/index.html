@@ -5,7 +5,16 @@ class: fotky
 ---
 
 {% for rocnik in site.data.fotky %}
-    <h2>Ročník {{ rocnik.rocnik }}</h2>
+    <h2>
+        Ročník {{ rocnik.rocnik }}
+        {% if rocnik.autor %}
+            {% if rocnik.url %}
+            <small>foto: <a href="{{ rocnik.url }}">{{ rocnik.autor }}</a></small>
+            {% else %}
+            <small>foto: {{ rocnik.autor }}</small>
+            {% endif %}
+        {% endif %}
+    </h2>
     <div class="row gallery">
     {% for fotka in rocnik.fotky %}
     <div class="col-xs-12 col-sm-6 col-md-3">
