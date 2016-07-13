@@ -1,4 +1,4 @@
-body {
+﻿body {
     background: url(/img/paper.png);
 }
 
@@ -149,4 +149,9 @@ ul.facts {
 
 .gallery {
     margin-top: 20px;
+}
+
+/* Lineup */
+.lineup img {
+    height: 300px;
 }
