@@ -13,7 +13,7 @@ class: program
         {% if band.odkazy %}
             <ul class="link-list">
             {% for url in band.odkazy %}
-                <li><a href="{{ url }}">{{ url | remove:'http://' | remove_first:'www.' | split:'/' | first }}</a>
+                <li><a href="{{ url }}">{{ url | remove:'http://' | remove:'https://' | remove_first:'www.' | split:'/' | first }}</a>
             {% endfor %}
             </ul>
         {% endif %}
