@@ -23,14 +23,11 @@
   akce:
     - kdo: LÍSKY vs. VALOUNY improvizační zápas (divadlo) Boskovice vs. Valašské Meziříčí
       kdy: "15.00"
-      fotka: /img/kapely/
       odkazy:
         - http://www.improlisky.cz/
     - kdo: JEŠTĚRKY (vítěz Dětské porty)
       kdy: "16.30"
-      fotka: /img/kapely/
-      odkazy:
-        - http://www.jesterky.cz/
+      odkazy:        
     - kdo: LUCIE REDLOVÁ 
       kdy: "17.00"
       fotka: /img/kapely/02_03_lucieRedlova.jpg
@@ -46,7 +43,6 @@
         - https://www.youtube.com/watch?v=4G47oxtXq54
     - kdo: TY SYČÁCI
       kdy: "20.00"
-      fotka: /img/kapely/
       odkazy:
         - http://www.tysycaci.cz/
         - https://www.youtube.com/watch?v=TkZSIh8N3fI
@@ -73,6 +69,5 @@
   akce:
     - kdo: projekce filmu Jeden Svět
       kdy: "19.30"
-      fotka: /img/kapely/
       odkazy:
         - https://www.jedensvet.cz/2017/
