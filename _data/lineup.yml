@@ -22,7 +22,7 @@
 - den: sobota 6. srpna
   kde: za muzeem
   akce:
-    - kdo: LÍSKY vs. VALOUNY improvizační zápas (divadlo) Boskovice vs. Valašské Meziříčí
+    - kdo: LÍSKY vs. VALOUNY improvizační zápas (divadlo) </br> Boskovice vs. Valašské Meziříčí
       kdy: "15.00"
       fotka: /img/kapely/02_01_lisky-01.jpg
       odkazy:
@@ -73,6 +73,7 @@
   akce:
     - kdo: projekce filmu Jeden Svět
       kdy: "19.30"
+      fotka: /img/kapely/logo_jeden_svet.jpg
       odkazy:
         - https://www.jedensvet.cz/2017/
         - http://www.csfd.cz/video/157696260/embed/?
