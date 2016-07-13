@@ -1,67 +1,69 @@
-- den: pátek 7. srpna
+- den: pátek 5. srpna
   kde: Kafe za rohem
   akce:
-    - kdo: Jakub Kříž
+    - kdo: VEKA
       kdy: "19.00"
-      fotka: /img/kapely/kriz.jpg
+      fotka: /img/kapely/01_01_veka.jpg
       odkazy:
-        - http://bandzone.cz/jakubkriz
-    - kdo: Ptakustik
-      kdy: "19.45"
-      fotka: /img/kapely/ptakustik.jpg
+        - http://bandzone.cz/veka
+        - https://www.youtube.com/watch?v=5vTiACnO6Yw
+    - kdo: ONDŘEJ SOLDÁN TRIO
+      kdy: "20.00"
       odkazy:
-        - http://bandzone.cz/ptakustik
-        - http://youtu.be/oBNmD_VJ0OQ
-    - kdo: Pokáč
-      kdy: "21.00"
-      fotka: /img/kapely/pokac.jpg
+        - http://bandzone.cz/ondrejsoldan
+        - https://www.youtube.com/watch?v=jRO3vSrh18w
+    - kdo: AĹEX KELMAN (RU)
+      kdy: "21.15"
+      fotka: /img/kapely/01_03_alex.jpg
       odkazy:
-        - http://www.bandzone.cz/pokac
-        - http://youtu.be/4x5_TNfVoO0
-- den: sobota 8. srpna
+        - https://alexkelmanband.bandcamp.com/
+        - https://www.youtube.com/watch?v=p4Py3yY3XDs
+- den: sobota 6. srpna
   kde: za muzeem
   akce:
-    - kdo: Lísky vs. Paleťáci (improzápas)
-      kdy: "14.30"
-      fotka: /img/kapely/lisky.jpg
+    - kdo: LÍSKY vs. VALOUNY improvizační zápas (divadlo) Boskovice vs. Valašské Meziříčí
+      kdy: "15.00"
       odkazy:
         - http://www.improlisky.cz/
-    - kdo: Kuňky (vítěz Dětské porty)
-      kdy: "16.00"
-      fotka: /img/kapely/kunky.jpg
-    - kdo: Slávek Janoušek
+    - kdo: JEŠTĚRKY (vítěz Dětské porty)
       kdy: "16.30"
-      fotka: /img/kapely/janousek.jpg
+    - kdo: LUCIE REDLOVÁ 
+      kdy: "17.00"
+      fotka: /img/kapely/02_03_lucieRedlova.jpg
       odkazy:
-        - http://www.slavekjanousek.cz/
-        - http://www.youtube.com/watch?v=lpR3ASme3A0
-    - kdo: Zdeněk Bína
-      kdy: "18.00"
-      fotka: /img/kapely/bina.jpg
+        - http://bandzone.cz/lucieredlova
+        - https://youtu.be/3Wm1x_TJaD0?list=PLs0x6LmlaSuPDzNjdvcaMN3ChIXoKTDJb
+    - kdo: KARLOVY HRAČKY
+      kdy: "18.30"
+      fotka: /img/kapely/02_04_karlovyhracky.jpg
       odkazy:
-        - http://www.zdenekbina.com/
-        - http://www.youtube.com/watch?v=lSL1Z_cIQAY
-    - kdo: Jindra Holubec y amigos
+        - http://www.karlovyhracky.cz/
+        - http://bandzone.cz/karlovyhracky
+        - https://www.youtube.com/watch?v=4G47oxtXq54
+    - kdo: TY SYČÁCI
+      kdy: "20.00"
+      odkazy:
+        - http://www.tysycaci.cz/
+        - https://www.youtube.com/watch?v=TkZSIh8N3fI
+    - kdo: Mr. LOCO (PER/MEX/BG)
+      kdy: "21.30"
+      fotka: /img/kapely/02_06mrloco.jpg
+      odkazy:
+        - http://www.mrloco.cz/
+        - https://www.youtube.com/watch?v=loY_bpCJFwg
+    - kdo: TIMUDEJ
+      kdy: "23.00"
+      fotka: /img/kapely/02_07_Timudej.jpg
+      odkazy:
+        - http://timudej.cz/
+        - https://www.youtube.com/watch?v=UnC-gl4UFjg
+    - kdo: 4DOGS
+      kdy: "00.30"
+      fotka: /img/kapely/02_08_4dogs.jpg
+      odkazy:
+        - http://www.4dogsband.cz/
+        - https://www.youtube.com/watch?v=8ZOsLqeH0fs
+- den: neděle 7. srpna
+  kde: kino Panorama
+    - kdo: projekce filmu Jeden Svět
       kdy: "19.30"
-      fotka: /img/kapely/holubec.jpg
-      odkazy:
-        - http://bandzone.cz/jhya
-        - http://www.youtube.com/watch?v=5KL9V09cFmk
-    - kdo: Poletíme?
-      kdy: "21.00"
-      fotka: /img/kapely/poletime.jpg
-      odkazy:
-        - http://www.poletime.info/
-        - http://www.youtube.com/watch?v=z3cl8HvsaPM
-    - kdo: Čankišou
-      kdy: "22.30"
-      fotka: /img/kapely/cankisou.jpg
-      odkazy:
-        - http://www.cankisou.cz/
-        - http://www.youtube.com/watch?v=ApfVoxqyKxA
-    - kdo: Langtunes (IR)
-      kdy: "00.00"
-      fotka: /img/kapely/langtunes.jpg
-      odkazy:
-        - http://soundcloud.com/langtunes
-        - http://www.youtube.com/watch?v=GJWQhaprBa8
