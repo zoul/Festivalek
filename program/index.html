@@ -8,18 +8,18 @@ class: program
     {% for day in site.data.lineup %}
         <h2 class="day">{{ day.den }} <small>{{ day.kde }}</small></h2>
         {% for band in day.akce %}
-        <h2>{{ band.kdo }} <small>{{ band.kdy }}</small></h2>
-        <img src="{{ band.fotka }}">
-        {% if band.odkazy %}
-            <ul class="link-list">
-            {% for url in band.odkazy %}
-                <li><a href="{{ url }}">{{ url | remove:'http://' | remove:'https://' | remove_first:'www.' | split:'/' | first }}</a>
-            {% endfor %}
-            </ul>
-        {% endif %}
+            <h2>{{ band.kdo }} <small>{{ band.kdy }}</small></h2>
+            <img src="{{ band.fotka }}">
+            {% if band.odkazy %}
+                <ul class="link-list">
+                {% for url in band.odkazy %}
+                    <li><a href="{{ url }}">{{ url | remove:'http://' | remove:'https://' | remove_first:'www.' | split:'/' | first }}</a>
+                {% endfor %}
+                </ul>
+            {% endif %}
         {% endfor %}
+        <hr/>
     {% endfor %}
-    <hr/>
 
 </div>
 
