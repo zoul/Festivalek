@@ -2,19 +2,19 @@
   kde: Kafe za rohem
   akce:
     - kdo: VEKA
-      kdy: "19.00"
+      kdy: "18.30"
       fotka: /img/kapely/01_01_veka.jpg
       odkazy:
         - http://bandzone.cz/veka
         - https://www.youtube.com/watch?v=5vTiACnO6Yw
     - kdo: ONDŘEJ SOLDÁN TRIO
-      kdy: "20.00"
+      kdy: ""
       fotka: /img/kapely/02_02_ondrej-01.jpg
       odkazy:
         - http://bandzone.cz/ondrejsoldan
         - https://www.youtube.com/watch?v=jRO3vSrh18w
     - kdo: ALEX KELMAN (RU)
-      kdy: "21.15"
+      kdy: ""
       fotka: /img/kapely/01_03_alex.jpg
       odkazy:
         - https://alexkelmanband.bandcamp.com/
