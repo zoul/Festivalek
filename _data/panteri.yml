@@ -45,3 +45,6 @@
 - id: ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info
+- id: ustudny
+  jmeno: Hostinec u studny
+  url: https://www.hostinecustudny.cz/
