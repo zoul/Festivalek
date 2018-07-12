@@ -18,12 +18,12 @@ h1, h2 {
 /* Header */
 
 #navigation {
-    background: url(/img/blue.png);
+    background: #D13F33;
     box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
     padding: 30px;
     padding-bottom: 30px;
     margin-bottom: 20px;
-    color:#EFE53B;  
+    color:#fff;  
 }
 
 h1 {
@@ -81,7 +81,7 @@ h1, h2, #menu {
 }
 
 #menu a {
-    color: #EFE53B;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -108,7 +108,7 @@ body.fotky     #menu li.fotky     a:after {
     margin-top: 30px;
     padding-bottom: 40px;
     padding-top: 30px;
-    background: url(/img/blue.png);
+    background: #D13F33;
     box-shadow: 0px -2px 3px rgba(80, 80, 80, 0.5);
     color: white;
 }
