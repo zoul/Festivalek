@@ -7,44 +7,19 @@
 - id: vkv
   jmeno: VKV dřevo s.r.o
   url: http://www.pilaboskovice.cz/
-- id: kovo
-  jmeno: PMP Kovo
-  url: http://www.pmpkovo.cz
 - id: topnet
   jmeno: TOPNET
   url: http://www.topnet.cz/
-- id: pecarka
-  jmeno: Mratin Pečárka
 - id: art
   jmeno: ART reklama
   url: http://artreklama.cz/
-- id: kooplast
-  jmeno: Kooplast
-  url: http://www.kooplast.cz
 - id: bambas
   jmeno: Elektroodpady Bambas
   url: http://www.bares-bambas.cz
-- id: naceste
-  jmeno: Zdravá výživa Na cestě
-  url: http://na-ceste.cz/
-- id: sg
-  jmeno: SG print
-  url: http://sgprint.cz/
-- id: teknika
-  jmeno: Teknika
-  url: http://www.teknika-cz.cz
 - id: profound
   jmeno: PROFOUND
   url: http://www.profound.cz/cs/
-- id: gresmont
-  jmeno: Gresmont
-  url: http://www.abc.cz/firma/gresmont/
-- id: valnoha
-  jmeno: Brašnářství Valnoha
-  url: http://valnoha.cz/
 - id: ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info
-- id: ustudny
-  jmeno: Hostinec u studny
-  url: https://www.hostinecustudny.cz/
+
