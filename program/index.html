@@ -8,7 +8,8 @@ class: program
     {% for day in site.data.lineup %}
         <h2 class="day">{{ day.den }} <small>{{ day.kde }}</small></h2>
         {% for band in day.akce %}
-            <h2>{{ band.kdo }} <small>{{ band.kdy }}</small></h2>
+            <h2>{{ band.kdo }} </h2>
+	    <small>{{ band.popis }} - {{ band.kdy }}</small>
             <img src="{{ band.fotka }}">
             {% if band.odkazy %}
                 <ul class="link-list">
