@@ -15,6 +15,10 @@ h1, h2 {
     font-size: 160%;
 }
 
+h2 small {
+    font-size:13.8px
+}
+
 /* Header */
 
 #navigation {
