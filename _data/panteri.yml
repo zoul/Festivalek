@@ -1,6 +1,18 @@
-- id: ch
-  jmeno: Pivovar Černá Hora
-  url: http://www.pivovarcernahora.cz
+- id: chotebor
+  jmeno: Chotěboř
+  url: http://pivovarchotebor.cz/
+- id: autobazar77
+  jmeno: Autobazar77
+  url: http://www.autobazar77.eu/
+- id: beewatec
+  jmeno: Beewatec
+  url: http://www.beewatec.cz/
+- id: prazska5
+  jmeno: Pražská5
+  url: https://www.dropbox.com/s/ki0gsh2ur4rm8ni/Prezentace%20Pansk%C3%BD%20dv%C5%AFr%20-%20n%C3%A1hled%205.pdf?dl=0
+- id: tc
+  jmeno: Thermotechnika
+  url: http://thermotechnika.cz/
 - id: zverex
   jmeno: Zverex Novotný
   url: http://www.zverex.com
