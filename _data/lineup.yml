@@ -3,50 +3,42 @@
   akce:
     - kdo: LÍSKY vs. VALOUNY
       popis: improvizační zápas (divadlo), Boskovice vs. Valašské Meziříčí
-      kdy: "15.30"
+      kdy: "15:30"
       fotka: /img/kapely/01_lisky-01.jpg
       odkazy:
         - http://www.improlisky.cz/
     - kdo: MARTIN E. KYŠPERSKÝ
       popis: (frontman kapely Květy, power-folk/Brno)
-      kdy: "17.00"
+      kdy: "18:00"
       fotka: /img/kapely/02_MartinKyspersky.jpg
       odkazy:   
         - https://youtu.be/GhhDXQzemWc?t=19s     
         - http://bandzone.cz/kyspersky
     - kdo: ACOUSTIC FIELDS 
       popis: (folk-downtempo/Brno)
-      kdy: "18.30"
+      kdy: "19:30"
       fotka: /img/kapely/03_AcousticFields.jpg
       odkazy:
         - http://bandzone.cz/acousticfields
         - https://soundcloud.com/acoustic-fields-1/patience
-        - https://youtu.be/sZYw_QoyTzE
-    - kdo: VOODOOYOUDO 
-      popis: (indie/Brno)
-      kdy: "20.00"
-      fotka: /img/kapely/04_Voodooyoudo.jpg
-      odkazy:
-        - https://youtu.be/E6DVv5NzJK0
-        - http://bandzone.cz/voodooyoudo
-        - https://www.facebook.com/vdydband/
+        - https://youtu.be/sZYw_QoyTzE    
     - kdo: LISTOLET 
       popis: (elektro-folk/Brno)
-      kdy: "21.30"
+      kdy: "21:00"
       fotka: /img/kapely/05_Listolet.jpg
       odkazy:
         - http://bandzone.cz/listolet
         - https://youtu.be/IknypGdmvtM
     - kdo: BOHEMIAN BETYARS 
       popis: (speed-folk-freak-punk/Maďarsko)
-      kdy: "23.00"
+      kdy: "22:30"
       fotka: /img/kapely/06_BohemianBetyars.jpg
       odkazy:
         - http://bohemianbetyars.hu/
         - https://youtu.be/zkfTLeGbNUM?t=46m52s
     - kdo: DJ AMMA 
       popis: (latino-afro-balkano-reggae-tanec pecky)
-      kdy: 00:30 až do konce světa
+      kdy: 00:00 až do konce světa
       fotka: /img/kapely/07_amma.jpg
       odkazy:
         - https://www.youtube.com/watch?v=muavvOnsstY&feature=youtu.be
