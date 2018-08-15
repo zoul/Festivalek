@@ -1,12 +1,6 @@
 ﻿- den: sobota 18. srpna
   kde: Boskovice, v šapitó za muzeem (ul. Hradní 1)
   akce:
-    - kdo: LÍSKY vs. VALOUNY
-      popis: improvizační zápas (divadlo), Boskovice vs. Valašské Meziříčí
-      kdy: "15:30"
-      fotka: /img/kapely/01_lisky-01.jpg
-      odkazy:
-        - http://www.improlisky.cz/
     - kdo: MARTIN E. KYŠPERSKÝ
       popis: (frontman kapely Květy, power-folk/Brno)
       kdy: "18:00"
@@ -14,6 +8,12 @@
       odkazy:   
         - https://youtu.be/GhhDXQzemWc?t=19s     
         - http://bandzone.cz/kyspersky
+    - kdo: LÍSKY vs. VALOUNY
+      popis: improvizační zápas (divadlo), Boskovice vs. Valašské Meziříčí
+      kdy: "15:30"
+      fotka: /img/kapely/01_lisky-01.jpg
+      odkazy:
+        - http://www.improlisky.cz/
     - kdo: ACOUSTIC FIELDS 
       popis: (folk-downtempo/Brno)
       kdy: "19:30"
