@@ -22,7 +22,7 @@ h2 small {
 /* Header */
 
 #navigation {
-    background: #D13F33;
+    background: #6788b7;
     box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
     padding: 30px;
     padding-bottom: 30px;
@@ -35,9 +35,11 @@ h1 {
     margin: auto;
     padding-top: 230px;
     margin-top: 0;
-    line-height: 1em;
+    line-height: 1.2em;
     background: url(/img/logo.png) top left no-repeat;
     background-size: contain;
+    height: 0;
+    overflow: hidden;
 }
 
 h1 .subtitle {
@@ -112,7 +114,7 @@ body.fotky     #menu li.fotky     a:after {
     margin-top: 30px;
     padding-bottom: 40px;
     padding-top: 30px;
-    background: #D13F33;
+    background: #6788b7;
     box-shadow: 0px -2px 3px rgba(80, 80, 80, 0.5);
     color: white;
 }
@@ -168,6 +170,6 @@ hr {
     margin-top: 60px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 2px solid #d13f33;
+    border-top: 2px solid #6788b7;
     width: 800px;
 }
