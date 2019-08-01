@@ -1,37 +1,36 @@
-- id: chotebor
-  jmeno: Chotěboř
-  url: http://pivovarchotebor.cz/
-- id: autobazar77
-  jmeno: Autobazar77
-  url: http://www.autobazar77.eu/
-- id: beewatec
+- id: fbbav2019-web_ROJC
+  jmeno: Rojc
+  url: https://rojc.cz/
+- id: fbbav2019-web_zverex
+  jmeno: Zverex
+  url: https://www.zverex.com/
+- id: fbbav2019-web_ags
+  jmeno: AGS
+  url: http://www.hruby-ags.com/
+- id: fbbav2019-web_bambas
+  jmeno: Elektroodpady Bambas
+  url: http://www.bares-bambas.cz/
+- id: fbbav2019-web_allegro
+  jmeno: Allegro
+  url: https://www.allegro-software.cz/
+- id: fbbav2019-web_artron
+  jmeno: Artron
+  url: https://artron.cz/
+- id: fbbav2019-web_ohlasy
+  jmeno: Ohlasy
+  url: http://ohlasy.info 
+- id: ohlasy
+  jmeno: fbbav2019-web_vkv
+  url: http://www.pilaboskovice.cz/
+- id: fbbav2019-web_beewatec
   jmeno: Beewatec
   url: http://www.beewatec.cz/
-- id: prazska5
-  jmeno: Pražská5
-  url: https://www.dropbox.com/s/ki0gsh2ur4rm8ni/Prezentace%20Pansk%C3%BD%20dv%C5%AFr%20-%20n%C3%A1hled%205.pdf?dl=0
-- id: tc
-  jmeno: Thermotechnika
-  url: http://thermotechnika.cz/
-- id: zverex
-  jmeno: Zverex Novotný
-  url: http://www.zverex.com
-- id: vkv
-  jmeno: VKV dřevo s.r.o
-  url: http://www.pilaboskovice.cz/
-- id: topnet
-  jmeno: TOPNET
-  url: http://www.topnet.cz/
-- id: art
-  jmeno: ART reklama
-  url: http://artreklama.cz/
-- id: bambas
-  jmeno: Elektroodpady Bambas
-  url: http://www.bares-bambas.cz
-- id: profound
+- id: fbbav2019-web_autobazar77
+  jmeno: Autobazar77
+  url: http://www.autobazar77.eu/
+- id: fbbav2019-web_profound
   jmeno: PROFOUND
   url: http://www.profound.cz/cs/
-- id: ohlasy
-  jmeno: Ohlasy
-  url: http://ohlasy.info
-
+- id: fbbav2019-web_panskydvur
+  jmeno: Panský dvůr
+  url: https://www.boskovice-panskydvur.cz/
