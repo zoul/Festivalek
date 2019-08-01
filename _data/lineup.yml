@@ -1,10 +1,27 @@
-﻿- den: sobota 10. srpna
+﻿- den: pátek 9. srpna
+  kde: Boskovice, Hradní 3, v šapitó v Panském dvoře
+  akce:
+    - kdo: DALEKKO
+      popis: "(Lo-fi pop / Praha)"
+      kdy: "20:00"
+      fotka: /img/kapely/2019/fbbav2019-web_01_Dalekko.jpg
+      odkazy:   
+        - https://dalekko.bandcamp.com/ 
+        - http://dalekko.cz/  
+        - https://youtu.be/dKr83Cy4DZE
+    - kdo: MALADE[S]
+      popis: (hypnotik rock, post-techno / Francie)
+      kdy: "22:00"
+      fotka: /img/kapely/2019/fbbav2019-web_02_Malades.jpg
+      odkazy:
+        - https://www.facebook.com/nadivanyskrivanek/
+- den: sobota 10. srpna
   kde: Boskovice, Hradní 3, v šapitó v Panském dvoře
   akce:
     - kdo: Improzápas LÍSKY vs. ALLIMP
       popis: "(divadlo: improvizační zápas / Boskovice vs. Ostrava)"
       kdy: "18:00"
-      fotka: /img/kapely/2019/improvizační zápas / Boskovice vs. Ostrava
+      fotka: /img/kapely/2019/fbbav2019-web_01_lisky.jpg
       odkazy:   
         - www.improlisky.cz
     - kdo: NADÍVANÝ SKŘIVÁNEK
