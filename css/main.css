@@ -12,11 +12,18 @@ body {
 }
 
 h1, h2 {
-    font-size: 160%;
+    font-size: 30px;
+    font-weight: 600;
 }
 
 h2 small {
     font-size:13.8px
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 /* Header */
@@ -90,6 +97,14 @@ h1, h2, #menu {
     color: #fff;
     text-decoration: none;
 }
+/* Program */
+
+.band {
+    margin-bottom: 60px;
+}
+.band-image {
+    margin-bottom: 30px;
+}
 
 /* Pick */
 
@@ -122,8 +137,7 @@ body.fotky     #menu li.fotky     a:after {
 /* Contacts */
 
 ul.facts {
-    padding: 0;
-    margin: 0;
+    list-style: disc;
 }
 
 .card {
