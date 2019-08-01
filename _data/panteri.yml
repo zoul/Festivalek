@@ -19,8 +19,8 @@
 - id: fbbav2019-web_ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info 
-- id: ohlasy
-  jmeno: fbbav2019-web_vkv
+- id: fbbav2019-web_vkv
+  jmeno: VKV
   url: http://www.pilaboskovice.cz/
 - id: fbbav2019-web_beewatec
   jmeno: Beewatec
