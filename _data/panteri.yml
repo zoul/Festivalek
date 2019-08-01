@@ -7,6 +7,9 @@
 - id: fbbav2019-web_ags
   jmeno: AGS
   url: http://www.hruby-ags.com/
+- id: fbbav2019-web_pecinka
+  jmeno: Martin Pečárka
+  url:
 - id: fbbav2019-web_bambas
   jmeno: Elektroodpady Bambas
   url: http://www.bares-bambas.cz/
@@ -16,6 +19,9 @@
 - id: fbbav2019-web_artron
   jmeno: Artron
   url: https://artron.cz/
+- id: fbbav2019-web-17
+  jmeno: Galerie Zwicker
+  url:
 - id: fbbav2019-web_ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info 
@@ -25,12 +31,18 @@
 - id: fbbav2019-web_beewatec
   jmeno: Beewatec
   url: http://www.beewatec.cz/
+- id: fbbav2019-web_wilk
+  jmeno: Boskovické pekařství
+  url:
 - id: fbbav2019-web_autobazar77
   jmeno: Autobazar77
   url: http://www.autobazar77.eu/
 - id: fbbav2019-web_profound
   jmeno: PROFOUND
   url: http://www.profound.cz/cs/
+- id: fbbav2019-web_bamatech
+  jmeno: Bamatech
+  url:
 - id: fbbav2019-web_panskydvur
   jmeno: Panský dvůr
   url: https://www.boskovice-panskydvur.cz/
