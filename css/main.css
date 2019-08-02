@@ -206,3 +206,9 @@ hr {
         text-decoration: underline;
     }
 }
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+}
