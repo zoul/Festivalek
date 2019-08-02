@@ -44,6 +44,7 @@ img {
 .page-title {
     width: 260px;
     margin: auto;
+    max-width: 100%;
 }
 h1 {
     width: 100%;
@@ -191,4 +192,25 @@ hr {
     border-top: 2px solid #6788b7;
     width: 100%;
     max-width: 800px;
+}
+
+@media only screen and (max-width: 550px) {
+    body.informace #menu li.informace a:after,
+    body.program   #menu li.program   a:after,
+    body.fotky     #menu li.fotky     a:after {
+        content: "";
+        position: absolute;
+        display: inline-block;
+        background: url(/img/pick.png) top left no-repeat;
+        background-size: contain;
+        bottom: -65px;
+        left: 7px;
+        width: 58px;
+        height: 65px;
+    }
+    body.informace #menu li.informace a,
+    body.program   #menu li.program   a,
+    body.fotky     #menu li.fotky     a {
+        text-align: underline;
+    }
 }
