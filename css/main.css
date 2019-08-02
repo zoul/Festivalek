@@ -198,19 +198,11 @@ hr {
     body.informace #menu li.informace a:after,
     body.program   #menu li.program   a:after,
     body.fotky     #menu li.fotky     a:after {
-        content: "";
-        position: absolute;
-        display: inline-block;
-        background: url(/img/pick.png) top left no-repeat;
-        background-size: contain;
-        bottom: -65px;
-        left: 7px;
-        width: 58px;
-        height: 65px;
+        display: none;
     }
     body.informace #menu li.informace a,
     body.program   #menu li.program   a,
     body.fotky     #menu li.fotky     a {
-        text-align: underline;
+        text-decoration: underline;
     }
 }
