@@ -182,7 +182,7 @@ ul.facts {
 /* Lineup */
 
 .container{
-    max-width:800px
+    max-width: 100%;
 }
 
 hr {
@@ -207,8 +207,8 @@ hr {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
     .container {
-        max-width: 100%;
+        max-width: 800px;
     }
 }
