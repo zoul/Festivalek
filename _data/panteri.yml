@@ -1,48 +1,45 @@
-- id: fbbav2019-web_ROJC
-  jmeno: Rojc
-  url: https://rojc.cz/
-- id: fbbav2019-web_zverex
-  jmeno: Zverex
-  url: https://www.zverex.com/
-- id: fbbav2019-web_ags
-  jmeno: AGS
-  url: http://www.hruby-ags.com/
-- id: fbbav2019-web_pecinka
-  jmeno: Martin Pečárka
-  url:
-- id: fbbav2019-web_bambas
-  jmeno: Elektroodpady Bambas
-  url: http://www.bares-bambas.cz/
-- id: fbbav2019-web_allegro
+- id: geniusnoci
+  jmeno: Genius noci
+  url: https://geniusnoci.cz/
+- id: allegro
   jmeno: Allegro
   url: https://www.allegro-software.cz/
-- id: fbbav2019-web_artron
+- id: artron
   jmeno: Artron
   url: https://artron.cz/
-- id: fbbav2019-web-17
-  jmeno: Galerie Zwicker
-  url:
-- id: fbbav2019-web_ohlasy
-  jmeno: Ohlasy
-  url: http://ohlasy.info 
-- id: fbbav2019-web_vkv
-  jmeno: VKV
-  url: http://www.pilaboskovice.cz/
-- id: fbbav2019-web_beewatec
-  jmeno: Beewatec
-  url: http://www.beewatec.cz/
-- id: fbbav2019-web_wilk
-  jmeno: Boskovické pekařství
-  url:
-- id: fbbav2019-web_autobazar77
+- id: agshruby
+  jmeno: AGS Hrubý
+  url: http://www.hruby-ags.com/
+- id: autobazar77
   jmeno: Autobazar77
   url: http://www.autobazar77.eu/
-- id: fbbav2019-web_profound
-  jmeno: PROFOUND
-  url: http://www.profound.cz/cs/
-- id: fbbav2019-web_bamatech
-  jmeno: Bamatech
+- id: bambas
+  jmeno: Elektroodpady Bambas
+  url: http://www.bares-bambas.cz/
+- id: bikepro
+  jmeno: Bike Pro
+  url: https://www.bike-pro.cz/
+- id: martinpecarka
+  jmeno: Martin Pečárka
   url:
-- id: fbbav2019-web_panskydvur
+- id: minerva
+  jmeno: Minerva
+  url: https://www.minerva-boskovice.cz/
+- id: ohlasy
+  jmeno: Ohlasy
+  url: http://ohlasy.info 
+- id: PD
   jmeno: Panský dvůr
   url: https://www.boskovice-panskydvur.cz/
+- id: profound
+  jmeno: PROFOUND
+  url: http://www.profound.cz/cs/
+- id: vkvdrevo
+  jmeno: VKV Dřevo
+  url: http://www.pilaboskovice.cz/
+- id: zverex
+  jmeno: Zverex
+  url: https://www.zverex.com/
+- id: galeriezwicker
+  jmeno: Galerie Zwicker
+  url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/

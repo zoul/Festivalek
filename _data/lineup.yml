@@ -1,62 +1,54 @@
-﻿- den: pátek 9. srpna
+﻿- den: sobota 15. srpna 2020
   kde: Boskovice, Hradní 3, v šapitó v Panském dvoře
   akce:
-    - kdo: DALEKKO
-      popis: "(Lo-fi pop / Praha)"
-      kdy: "20:00"
-      fotka: /img/kapely/2019/fbbav2019-web_01_Dalekko.jpg
-      odkazy:   
-        - https://dalekko.bandcamp.com/ 
-        - http://dalekko.cz/  
-        - https://youtu.be/dKr83Cy4DZE
-    - kdo: MALADE[S]
-      popis: (hypnotik rock, post-techno / Francie)
-      kdy: "22:00"
-      fotka: /img/kapely/2019/fbbav2019-web_02_Malades.jpg
-      odkazy:
-        - https://soundcloud.com/malades-1
-        - https://youtu.be/0xO5D_UNOQc
-- den: sobota 10. srpna
-  kde: Boskovice, Hradní 3, v šapitó v Panském dvoře
-  akce:
-    - kdo: Improzápas LÍSKY vs. ALLIMP
-      popis: "(divadlo: improvizační zápas / Boskovice vs. Ostrava)"
-      kdy: "18:00"
-      fotka: /img/kapely/2019/fbbav2019-web_01_lisky.jpg
+    - kdo: Improzápas LÍSKY vs. VALOUNY
+      popis: "(divadlo: improvizační zápas / Boskovice vs. Valašské Meziříčí)"
+      kdy: "16:30"
+      fotka: /img/kapely/2020/lisky.png
       odkazy:   
         - https://www.improlisky.cz/
-    - kdo: NADÍVANÝ SKŘIVÁNEK
-      popis: (post-underground / Boskovice)
-      kdy: "20:30"
-      fotka: /img/kapely/2019/fbbav2019-web_02_nadivanyskrivanek.jpg
+    - kdo: ZAPASKA [UA]
+      popis: (elektronika, pop, alternativa/indie / Kyjev)
+      kdy: "18:30"
+      fotka: /img/kapely/2020/zapaska.png
       odkazy:
-        - https://www.facebook.com/nadivanyskrivanek/
+        - http://zapaskamusic.com/
+	- https://youtu.be/xznf781nJ7I
+    - kdo: FREDY & KRASTY
+      popis: (funk-rock / Ostrava)
+      kdy: "20:00"
+      fotka: /img/kapely/2020/fredyakrasty.png
+      odkazy:
+        - https://youtu.be/Q_L5CjNLh_o
+        - https://youtu.be/_4fnOsiKhzs
+        - https://www.fredy-krasty.com/
+        - https://bandzone.cz/jindraholubec
     - kdo: ČANKIŠOU
       popis: (world music-ethno / Brno)
-      kdy: "22:00"
-      fotka: /img/kapely/2019/fbbav2019-web_03_cankisou.jpg
+      kdy: "21:30"
+      fotka: /img/kapely/2020/cankisou.png
       odkazy:
         - https://youtu.be/ApfVoxqyKxA
         - http://www.cankisou.cz  
-        - https://bandzone.cz/cankisou
-    - kdo: Mr. LOCO 
-      popis: (world music-world music / Praha)
-      kdy: "23:30"
-      fotka: /img/kapely/2019/fbbav2019-web_04_Mrloco.jpg
+        - https://bandzone.cz/cankisou    
+    - kdo: BOHEMIAN BETYARS [HU]
+      popis: (world music-ethno / Brno)
+      kdy: "23:00"
+      fotka: /img/kapely/2020/bohemianbetyars.png
       odkazy:
-        - https://bandzone.cz/mrloco 
-        - https://youtu.be/jceezrJaiuI
-        - http://www.mrloco.cz/ 
-    - kdo: PRAGO UNION
-      popis: (hip hop-alternative / Praha)
-      kdy: "01:00"
-      fotka: /img/kapely/2019/fbbav2019-web_05_Prago.jpg
+        - https://youtu.be/7-mHA796KCs?t=65
+        - https://youtu.be/BBke_2ietG8
+        - http://bohemianbetyars.hu/
+   - kdo: 4DOGS
+      popis: (rave-rock / Valašské Meziříčí)
+      kdy: "00:30"
+      fotka: /img/kapely/2020/4dogs.png
       odkazy:
-        - http://www.pragounion.cz/ 
-        - https://youtu.be/kK_piZUMZ7M
-    - kdo: DJ AMMA 
+        - https://youtu.be/8ZOsLqeH0fs
+        - https://bandzone.cz/4dogs
+    - kdo: DJs support DJ AMMA 
       popis: (latino-afro-balkano-reggae-tanec pecky)
-      kdy: 02:30 až do konce světa
-      fotka: /img/kapely/2019/fbbav2019-web_06_Amma.jpg
+      kdy: 
+      fotka: /img/kapely/2020/Amma.png
       odkazy:
         - https://www.youtube.com/watch?v=muavvOnsstY&feature=youtu.be
