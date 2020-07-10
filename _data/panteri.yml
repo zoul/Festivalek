@@ -37,6 +37,9 @@
 - id: profound
   jmeno: PROFOUND
   url: http://www.profound.cz/cs/
+- id: venavalnoha
+  jmeno: Vena Valnoha
+  url: https://www.venavalnoha.cz/
 - id: vkvdrevo
   jmeno: VKV Dřevo
   url: http://www.pilaboskovice.cz/
