@@ -29,11 +29,15 @@ img {
     max-width: 100%;
     height: auto;
 }
-
+a,
+a:hover,
+a:focus {
+    color: #be1622;
+}
 /* Header */
 
 #navigation {
-    background: #6788b7;
+    background: #fddd29;
     box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
     padding: 30px;
     padding-bottom: 30px;
