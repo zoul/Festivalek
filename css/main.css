@@ -100,7 +100,7 @@ h1, h2, #menu {
 
 #menu li:not(:last-child):after {
     content: "/";
-    color: white;
+    color: #be1622;
     padding-left: 3px;
     padding-right: 0px;
 }
