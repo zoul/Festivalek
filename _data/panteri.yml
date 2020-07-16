@@ -1,15 +1,15 @@
 - id: geniusnoci
   jmeno: Genius noci
   url: https://geniusnoci.cz/
+- id: agshruby
+  jmeno: AGS Hrubý
+  url: http://www.hruby-ags.com/
 - id: allegro
   jmeno: Allegro
   url: https://www.allegro-software.cz/
 - id: artron
   jmeno: Artron
   url: https://artron.cz/
-- id: agshruby
-  jmeno: AGS Hrubý
-  url: http://www.hruby-ags.com/
 - id: autobazar77
   jmeno: Autobazar77
   url: http://www.autobazar77.eu/
@@ -22,6 +22,15 @@
 - id: bohaty
   jmeno: Bohatý Catering
   url: 
+- id: galeriezwicker
+  jmeno: Galerie Zwicker
+  url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
+- id: itab
+  jmeno: Itab
+  url: https://itab.com/
+- id: karroh
+  jmeno: Karroh
+  url: http://www.karroh.eu/
 - id: martinpecarka
   jmeno: Martin Pečárka
   url:
@@ -37,6 +46,9 @@
 - id: profound
   jmeno: PROFOUND
   url: http://www.profound.cz/cs/
+- id: punqua
+  jmeno: Punqua
+  url: https://www.facebook.com/barpunqa/
 - id: venavalnoha
   jmeno: Vena Valnoha
   url: https://www.venavalnoha.cz/
@@ -46,6 +58,3 @@
 - id: zverex
   jmeno: Zverex
   url: https://www.zverex.com/
-- id: galeriezwicker
-  jmeno: Galerie Zwicker
-  url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
