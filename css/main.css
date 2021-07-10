@@ -52,11 +52,11 @@ a:focus {
 }
 h1 {
     width: 100%;
-    padding-top: 88%;
+    padding-top: 98%;
     margin-top: 0;
     line-height: 1.2em;
     background: url(/img/logo.png) top left no-repeat;
-    background-size: contain;
+    background-position: center top;
     height: 0;
     overflow: hidden;
 }
