@@ -1,47 +1,57 @@
-﻿- den: sobota 15. srpna 2020
-  kde: Boskovice, Hradní 3, v šapitó v Panském dvoře
+﻿- den: pátek 6. srpna 2021
+  kde: Boskovice, Hradní 1, v šapitó za muzeem
   akce:
-    - kdo: Improzápas LÍSKY vs. VALOUNY
-      popis: "(improvizační zápas / Boskovice vs. Valašské Meziříčí)"
-      kdy: "16:30"
-      fotka: /img/kapely/2020/lisky.png
-      odkazy:   
-        - https://www.improlisky.cz/
-    - kdo: 4DOGS
-      popis: (rave-rock / Valašské Meziříčí)
-      kdy: "18:30"
-      fotka: /img/kapely/2020/4dogs.png
-      odkazy:
-        - https://youtu.be/8ZOsLqeH0fs
-        - https://bandzone.cz/4dogs
-    - kdo: FREDY & KRASTY
-      popis: (funk-rock / Ostrava)
+    - kdo: VEŘEJNĚ NEPŘÍSTUPNÁ VODNÍ PLOCHA
+      popis: "(jazz/world music | Boskovice, Letovice, Praha)"
       kdy: "20:00"
-      fotka: /img/kapely/2020/fredyakrasty.png
-      odkazy:
-        - https://youtu.be/Q_L5CjNLh_o
-        - https://youtu.be/tc9SpRcOlqk
-        - https://www.fredy-krasty.com/
-        - https://bandzone.cz/jindraholubec
-    - kdo: ČANKIŠOU
-      popis: (world music-ethno / Brno)
+      fotka: /img/kapely/2021/vnvp.png
+      odkazy:   
+        - https://www.youtube.com/channel/UCslTqkieqjJr3mVcbFaOGKQ
+        - https://www.facebook.com/verejne.nepristupna
+    - kdo: TY SYČÁCI
+      popis: "(alternative-world music | Brno)"
       kdy: "21:30"
-      fotka: /img/kapely/2020/cankisou.png
+      fotka: /img/kapely/2021/tysycaci.png
       odkazy:
-        - https://youtu.be/ApfVoxqyKxA
-        - http://www.cankisou.cz  
-        - https://bandzone.cz/cankisou    
-    - kdo: BOHEMIAN BETYARS [HU]
-      popis: (world music-ethno / Maďarsko)
+        - http://www.tysycaci.cz/
+        - https://youtu.be/oXLqkjS3Ju4
+    - kdo: —123 MIN.
+      popis: "(jazz, blues, funky a world music)"
       kdy: "23:00"
-      fotka: /img/kapely/2020/bohemianbetyars.png
+      fotka: /img/kapely/2021/minus123min.png
       odkazy:
-        - https://youtu.be/7-mHA796KCs?t=65
-        - https://youtu.be/BBke_2ietG8
-        - http://bohemianbetyars.hu/
-    - kdo: DJs support DJ AMMA, Gianni B a další
-      popis: (latino-afro-balkano-reggae-tanec pecky)
-      kdy: 
-      fotka: /img/kapely/2020/amma.png
+        - https://minus123minut.cz/
+        - https://youtu.be/_mdqAfimytI
+        - https://youtu.be/P3LKlhpAaz8
+    - kdo: DJ AMMA
+      popis: (latino-afro-balkano-reggae-tanec pecky | Boskovice)
+      kdy: "00:30"	
+      fotka: /img/kapely/2021/amma.png
       odkazy:
         - https://www.youtube.com/watch?v=muavvOnsstY&feature=youtu.be
+
+- den: sobota 7. srpna 2021
+  kde: Boskovice, Hradní 1, v šapitó za muzeem
+  akce:
+    - kdo: TYGROO
+      popis: "(dechová hudba-funk | Praha)"
+      kdy: "19:00"
+      fotka: /img/kapely/2021/tygroo.png
+      odkazy:   
+        - https://youtu.be/vlYB0YnpbgE
+        - https://youtu.be/w4e1Hh9RLz0
+        - https://www.facebook.com/tygrooband/
+    - kdo: LÍSKY vs. VALOUNY
+      popis: "(improvizační zápas / Boskovice vs. Valašské Meziříčí)"
+      kdy: "20:30"
+      fotka: /img/kapely/2021/lisky.png
+      odkazy:   
+        - https://www.improlisky.cz/
+    - kdo: FLOEX
+      popis: "(Elektronika, Ambient | Praha)"
+      kdy: "23:00"
+      fotka: /img/kapely/2021/floex.png
+      odkazy:   
+        - https://floex.cz/
+        - https://youtu.be/k5bLXck_Unw
+        - https://youtu.be/TzuaPxbVhT4
