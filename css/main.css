@@ -32,7 +32,7 @@ img {
 a,
 a:hover,
 a:focus {
-    color: #be1622;
+    color: #223239;
 }
 /* Header */
 
@@ -100,13 +100,13 @@ h1, h2, #menu {
 
 #menu li:not(:last-child):after {
     content: "/";
-    color: #be1622;
+    color: #223239;
     padding-left: 3px;
     padding-right: 0px;
 }
 
 #menu a {
-    color: #be1622;
+    color: #223239;
     text-decoration: none;
 }
 /* Program */
@@ -193,7 +193,7 @@ hr {
     margin-top: 60px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 2px solid #be1622;
+    border-top: 2px solid #223239;
     width: 100%;
     max-width: 800px;
 }
