@@ -1,11 +1,8 @@
-- id: geniusnoci
-  jmeno: Genius noci
-  url: https://geniusnoci.cz/
 - id: agshruby
   jmeno: AGS Hrubý
   url: http://www.hruby-ags.com/
 - id: allegro
-  jmeno: Allegro
+  jmeno: allegro
   url: https://www.allegro-software.cz/
 - id: artron
   jmeno: Artron
@@ -13,42 +10,39 @@
 - id: autobazar77
   jmeno: Autobazar77
   url: http://www.autobazar77.eu/
-- id: bambas
-  jmeno: Elektroodpady Bambas
-  url: http://www.bares-bambas.cz/
 - id: bikepro
   jmeno: Bike Pro
   url: https://www.bike-pro.cz/
 - id: bohaty
   jmeno: Bohatý Catering
   url: 
-- id: galeriezwicker
-  jmeno: Galerie Zwicker
-  url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
-- id: itab
-  jmeno: Itab
-  url: https://itab.com/
-- id: karroh
-  jmeno: Karroh
-  url: http://www.karroh.eu/
-- id: martinpecarka
-  jmeno: Martin Pečárka
-  url:
+- id: kooplast
+  jmeno: Kooplast
+  url: kooplast.cz
+- id: ldseating
+  jmeno: LD Seating
+  url: https://ldseating.com
 - id: minerva
   jmeno: Minerva
   url: https://www.minerva-boskovice.cz/
 - id: ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info 
-- id: PD
-  jmeno: Panský dvůr
+- id: pecarka
+  jmeno: Martin Pečárka
+  url:
+- id: prazska5
+  jmeno: Pražská 5
   url: https://www.boskovice-panskydvur.cz/
 - id: profound
   jmeno: PROFOUND
   url: http://www.profound.cz/cs/
-- id: punqua
-  jmeno: Punqua
-  url: https://www.facebook.com/barpunqa/
+- id: proindex
+  jmeno: Proindex
+  url: http://www.proindex.biz/
+- id: rudy
+  jmeno: U Rudyho
+  url: http://www.urudyho.eu
 - id: venavalnoha
   jmeno: Vena Valnoha
   url: https://www.venavalnoha.cz/
@@ -58,3 +52,6 @@
 - id: zverex
   jmeno: Zverex
   url: https://www.zverex.com/
+- id: zwicker
+  jmeno: Galerie Zwicker
+  url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
