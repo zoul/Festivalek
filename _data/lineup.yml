@@ -1,57 +1,37 @@
-﻿- den: pátek 6. srpna 2021
+- den: pátek 5. srpna 2022
   kde: Boskovice, Hradní 1, v šapitó za muzeem
   akce:
     - kdo: VEŘEJNĚ NEPŘÍSTUPNÁ VODNÍ PLOCHA
       popis: "(jazz/world music | Boskovice, Letovice, Praha)"
-      kdy: "20:00"
-      fotka: /img/kapely/2021/vnvp.png
+      kdy: "18:00"
+      fotka: /img/kapely/2022/vnvp.png
       odkazy:   
         - https://www.youtube.com/channel/UCslTqkieqjJr3mVcbFaOGKQ
         - https://www.facebook.com/verejne.nepristupna
-    - kdo: TY SYČÁCI
-      popis: "(alternative-world music | Brno)"
-      kdy: "21:30"
-      fotka: /img/kapely/2021/tysycaci.png
+    - kdo: LÍSKY vs. POLOČAS NÁPADU
+      popis: "(improvizační zápas / Boskovice vs. Praha)"
+      kdy: "19:30"
+      fotka: /img/kapely/2022/lisky.png
+      odkazy:   
+        - https://www.improlisky.cz/
+    - kdo: TIMUDEJ
+      popis: "(world-music/samba/balkáN/elektroswing/pop | Praha)"
+      kdy: "22:00"
+      fotka: /img/kapely/2022/timudej.png
       odkazy:
-        - http://www.tysycaci.cz/
-        - https://youtu.be/oXLqkjS3Ju4
-    - kdo: —123 MIN.
-      popis: "(jazz, blues, funky a world music)"
-      kdy: "23:00"
-      fotka: /img/kapely/2021/minus123min.png
-      odkazy:
-        - https://minus123minut.cz/
-        - https://youtu.be/_mdqAfimytI
-        - https://youtu.be/P3LKlhpAaz8
-    - kdo: DJ AMMA
-      popis: (latino-afro-balkano-reggae-tanec pecky | Boskovice)
-      kdy: "00:30"	
-      fotka: /img/kapely/2021/amma.png
-      odkazy:
-        - https://www.youtube.com/watch?v=muavvOnsstY&feature=youtu.be
-
-- den: sobota 7. srpna 2021
-  kde: Boskovice, Hradní 1, v šapitó za muzeem
-  akce:
+        - https://youtu.be/UnC-gl4UFjg?t=106
+        - http://timudej.cz/
     - kdo: TYGROO
       popis: "(dechová hudba-funk | Praha)"
-      kdy: "19:00"
-      fotka: /img/kapely/2021/tygroo.png
+      kdy: "00:00"
+      fotka: /img/kapely/2022/tygroo.png
       odkazy:   
         - https://youtu.be/vlYB0YnpbgE
         - https://youtu.be/w4e1Hh9RLz0
         - https://www.facebook.com/tygrooband/
-    - kdo: LÍSKY vs. VALOUNY
-      popis: "(improvizační zápas / Boskovice vs. Valašské Meziříčí)"
-      kdy: "20:30"
-      fotka: /img/kapely/2021/lisky.png
-      odkazy:   
-        - https://www.improlisky.cz/
-    - kdo: FLOEX
-      popis: "(Elektronika, Ambient | Praha)"
-      kdy: "23:00"
-      fotka: /img/kapely/2021/floex.png
-      odkazy:   
-        - https://floex.cz/
-        - https://youtu.be/k5bLXck_Unw
-        - https://youtu.be/TzuaPxbVhT4
+    - kdo: DJ AMMA
+      popis: (latino-afro-balkano-reggae-tanec pecky | Boskovice)
+      kdy: "01:00"	
+      fotka: /img/kapely/2022/amma.png
+      odkazy:
+        - https://www.youtube.com/watch?v=muavvOnsstY&feature=youtu.be
