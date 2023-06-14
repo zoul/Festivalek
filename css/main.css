@@ -55,7 +55,8 @@ h1 {
     padding-top: 57%;
     margin-top: 0;
     line-height: 1.2em;
-    background: url(/img/logo23.png) top left no-repeat;
+    background: url('/img/logo23.png') top left no-repeat;
+    background-size: 310px auto;
     background-position: center top;
     height: 0;
     overflow: hidden;
