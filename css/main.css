@@ -37,7 +37,7 @@ a:focus {
 /* Header */
 
 #navigation {
-    background: #d1942b;
+    background-color: rgb(51, 102, 124);
     box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
     padding: 30px;
     padding-bottom: 30px;
@@ -55,7 +55,7 @@ h1 {
     padding-top: 57%;
     margin-top: 0;
     line-height: 1.2em;
-    background: url(/img/logo.png) top left no-repeat;
+    background: url(/img/logo23.png) top left no-repeat;
     background-position: center top;
     height: 0;
     overflow: hidden;
