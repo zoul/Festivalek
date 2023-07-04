@@ -7,8 +7,8 @@
 - id: allegro
   jmeno: Allegro
   url: https://www.allegro-software.cz/
-- id: Artron
-  jmeno: Artron
+- id: artron
+  jmeno: artron
   url: https://artron.cz/
 - id: bernard
   jmeno: Bernard
@@ -28,8 +28,8 @@
 - id: kooplast
   jmeno: Kooplast
   url: https://www.kooplast.cz/
-- id: legdan
-  jmeno: legdan
+- id: Legdan
+  jmeno: Legdan
   url: https://www.legdan.cz/cs/
 - id: minerva
   jmeno: Minerva
