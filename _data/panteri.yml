@@ -7,18 +7,18 @@
 - id: allegro
   jmeno: Allegro
   url: https://www.allegro-software.cz/
-- id: artreklama
-  jmeno: ARTreklama
-  url: https://www.artrealizace.cz/
-- id: artron
+- id: Artron
   jmeno: Artron
   url: https://artron.cz/
-- id: autobazar77
-  jmeno: Autobazar77
-  url: http://www.autobazar77.eu/
 - id: bernard
   jmeno: Bernard
   url: https://www.bernard.cz/
+- id: bambas
+  jmeno: bambas
+  url: http://www.bares-bambas.cz
+- id: beewatec
+  jmeno: beewatec
+  url: https://www.beewatec.com/
 - id: bikepro
   jmeno: Bike Pro
   url: https://www.bike-pro.cz/
@@ -28,15 +28,27 @@
 - id: kooplast
   jmeno: Kooplast
   url: https://www.kooplast.cz/
+- id: legdan
+  jmeno: legdan
+  url: https://www.legdan.cz/cs/
 - id: minerva
   jmeno: Minerva
   url: https://www.minerva-boskovice.cz/
+- id: Monielli
+  jmeno: Monielli
+  url: https://monielli.cz
 - id: ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info 
+- id: Opticar
+  jmeno: Opticar
+  url: http://www.opticar.cz
 - id: prazska5
   jmeno: Prazska5
   url: https://www.boskovice-panskydvur.cz/
+- id: Profound
+  jmeno: Profound
+  url: http://www.profound.cz
 - id: proindex
   jmeno: Proindex
   url: http://www.proindex.biz/
@@ -49,6 +61,9 @@
 - id: vkvdrevo
   jmeno: VKV Dřevo
   url: http://www.pilaboskovice.cz/
+- id: NaCeste
+  jmeno: NaCeste
+  url: https://na-ceste.cz
 - id: zverex
   jmeno: Zverex
   url: https://www.zverex.com/
