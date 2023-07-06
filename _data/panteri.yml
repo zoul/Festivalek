@@ -1,69 +1,75 @@
 - id: 3epraha
   jmeno: 3E Praha
   url: https://3epraha.cz/
-- id: agshruby
+- id: Agshruby
   jmeno: AGS Hrubý
   url: http://www.hruby-ags.com/
-- id: allegro
+- id: Allegro
   jmeno: Allegro
   url: https://www.allegro-software.cz/
-- id: artron
-  jmeno: artron
+- id: Artron
+  jmeno: Artron
   url: https://artron.cz/
-- id: bernard
+- id: Bernard
   jmeno: Bernard
   url: https://www.bernard.cz/
-- id: bambas
-  jmeno: bambas
+- id: Bambas
+  jmeno: Bambas
   url: http://www.bares-bambas.cz
 - id: Beewatec
   jmeno: Beewatec
   url: https://www.beewatec.com/
-- id: bikepro
+- id: Bikepro
   jmeno: Bike Pro
   url: https://www.bike-pro.cz/
-- id: galeriezwicker
+- id: Galeriezwicker
   jmeno: Galerie Zwicker
   url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
-- id: kooplast
+- id: Kooplast
   jmeno: Kooplast
   url: https://www.kooplast.cz/
 - id: Legdan
   jmeno: Legdan
   url: https://www.legdan.cz/cs/
-- id: minerva
+- id: Ldseating
+  jmeno: LD Seating
+  url: https://ldseating.com/cs
+- id: Minerva
   jmeno: Minerva
   url: https://www.minerva-boskovice.cz/
 - id: Monielli
   jmeno: Monielli
   url: https://monielli.cz
-- id: ohlasy
+- id: Naceste
+  jmeno: NaCeste
+  url: https://na-ceste.cz
+- id: Ohlasy
   jmeno: Ohlasy
   url: http://ohlasy.info 
 - id: Opticar
   jmeno: Opticar
   url: http://www.opticar.cz
-- id: prazska5
+- id: Prazska5
   jmeno: Prazska5
   url: https://www.boskovice-panskydvur.cz/
-- id: profound
-  jmeno: profound
+- id: Panskydvur
+  jmeno: Panský dvůr
+  url: https://www.boskovice-panskydvur.cz/
+- id: Profound
+  jmeno: Profound
   url: http://www.profound.cz
-- id: proindex
+- id: Proindex
   jmeno: Proindex
   url: http://www.proindex.biz/
-- id: urudyho
+- id: Urudyho
   jmeno: U Rudyho
   url: http://www.urudyho.eu/´
-- id: venavalnoha
+- id: Venavalnoha
   jmeno: Vena Valnoha
   url: https://www.venavalnoha.cz/
-- id: vkvdrevo
+- id: Vkvdrevo
   jmeno: VKV Dřevo
   url: http://www.pilaboskovice.cz/
-- id: NaCeste
-  jmeno: NaCeste
-  url: https://na-ceste.cz
-- id: zverex
+- id: Zverex
   jmeno: Zverex
   url: https://www.zverex.com/
