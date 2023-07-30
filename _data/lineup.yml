@@ -10,13 +10,11 @@
         - https://ohlasy.info/podcast/
         - https://youtu.be/eNg2P2vIQig
 
-
 - den: pátek 4. srpna 2023
   kde: Boskovice, šapitó za muzeem (Hradní 1)
   akce:
     - kdo: DJ ÁMMA
       popis: (bass sheriff)
-)
       kdy: "19:00"	
       fotka: /img/kapely/2023/amma1.png
       odkazy:
@@ -26,9 +24,9 @@
       kdy: "21:00"
       fotka: /img/kapely/2023/zapaska.png
       odkazy:
-        - https://youtu.be/xznf781nJ7I
-        - https://zapaskaband.bandcamp.com/
         - https://youtu.be/eNg2P2vIQig
+        - https://zapaskaband.bandcamp.com
+
     - kdo: DJ WLASA
       popis: (beerz and beats)
       kdy: "22:00"	
@@ -37,7 +35,6 @@
         - https://soundcloud.com/wlasa
     - kdo: DJ ŠÁŠA
       popis: (alien hooligan)
-
       kdy: "00:00"	
       fotka: /img/kapely/2023/sasa.png
       odkazy:
