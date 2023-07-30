@@ -15,7 +15,8 @@
   kde: Boskovice, šapitó za muzeem (Hradní 1)
   akce:
     - kdo: DJ ÁMMA
-      popis: (latino-afro-balkano-reggae-tanec pecky | Boskovice)
+      popis: (bass sheriff)
+)
       kdy: "19:00"	
       fotka: /img/kapely/2023/amma1.png
       odkazy:
@@ -29,13 +30,14 @@
         - https://zapaskaband.bandcamp.com/
         - https://youtu.be/eNg2P2vIQig
     - kdo: DJ WLASA
-      popis: (Boskovice)
+      popis: (beerz and beats)
       kdy: "22:00"	
       fotka: /img/kapely/2023/wlasa.png
       odkazy:
         - https://soundcloud.com/wlasa
     - kdo: DJ ŠÁŠA
-      popis: (Boskovice)
+      popis: (alien hooligan)
+
       kdy: "00:00"	
       fotka: /img/kapely/2023/sasa.png
       odkazy:
