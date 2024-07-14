@@ -4,7 +4,7 @@
     - kdo: "Ohlasy naživo"
       popis: "Ohlasy naživo"
       kdy: "18:00"
-      fotka: /img/kapely/ohlasy.png
+      fotka: /img/kapely/ohlasy.jpg
       odkazy:   
         - https://ohlasy.info/podcast/
 
@@ -22,14 +22,14 @@
     - kdo: "ARROGANT TWINS"
       popis: "(rock'n'roll-punk  | CZ/UK)"
       kdy: "21:00"
-      fotka: /img/kapely/arroganttwins.png
+      fotka: /img/kapely/arroganttwins.jpg
       odkazy:
         - https://youtu.be/1hyvXsoFpuo?si=W4yrF_A1tMxY3xIF
 
     - kdo: "ZOOBLASTERS"
       popis: "(house-electro-balkan-swing a ostatní světové beaty)"
       kdy: "23:00"	
-      fotka: /img/kapely/zooblasters.png
+      fotka: /img/kapely/zooblasters.jpg
       odkazy:
         - https://youtu.be/Nh_20KSU6mk?si=xmtyfWnK2U_nIAB2
         - https://www.zooblasters.com
@@ -46,7 +46,7 @@
     - kdo: "LÍSKY vs. ALLIMP"	
       popis: "(improvizační zápas / Boskovice vs. Ostrava)"
       kdy: "17:30"
-      fotka: /img/kapely/lisky.png
+      fotka: /img/kapely/lisky.jpg
 
     - kdo: "?"
       popis: "(world music-world music)"
@@ -55,7 +55,7 @@
     - kdo: "ANALOGUE BIRDS (DE)"
       popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
       kdy: "23:00"
-      fotka: /img/kapely/analoguebirds.png
+      fotka: /img/kapely/analoguebirds.jpg
       odkazy:
         - https://youtu.be/OX6iRJlfw0g?si=mTbhnlc2G1FNDtPx
         - https://analoguebirds.bandcamp.com/album/little-creatures
