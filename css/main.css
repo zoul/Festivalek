@@ -1,4 +1,4 @@
-﻿body {
+body {
     background: url(/img/paper.png);
 }
 
@@ -37,7 +37,7 @@ a:focus {
 /* Header */
 
 #navigation {
-    background-color: rgb(51, 102, 124);
+    background-color: rgb(244, 193, 30);
     box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
     padding: 30px;
     padding-bottom: 30px;
