@@ -1,48 +1,60 @@
 - den: pátek 9. srpna 2024
-  kde: Boskovice, Prostor (Hradní 3)
+  kde: Boskovice, Prostor
   akce:
-    - kdo: Ohlasy naživo 
-      popis:
+    - kdo: "Ohlasy naživo"
+      popis: "Ohlasy naživo"
       kdy: "18:00"
+      fotka: /img/kapely/ohlasy.png
       odkazy:   
         - https://ohlasy.info/podcast/
+
 - den: pátek 9. srpna 2024
-  kde: Boskovice, za muzeem (Hradní 1)
+  kde: Boskovice, za muzeem
   akce:
-    - kdo: VOJTA VIOLINIST
-      popis: (ethno-keltských-world music )
+    - kdo: "VOJTA VIOLINIST"
+      popis: "(ethno-keltských-world music)"
       kdy: "19:00"	
       fotka: /img/kapely/vojta.png
       odkazy:
         - https://youtu.be/Au2xndj1IFo?si=I-pI1vIF8DwcyGL6&t=73
 	- https://www.vojtaviolinist.com
-    - kdo: ARROGANT TWINS
+
+    - kdo: "ARROGANT TWINS"
       popis: "(rock'n'roll-punk  | CZ/UK)"
       kdy: "21:00"
       fotka: /img/kapely/arroganttwins.png
       odkazy:
         - https://youtu.be/1hyvXsoFpuo?si=W4yrF_A1tMxY3xIF
-    - kdo: ZOOBLASTERS 
-      popis: (house-electro-balkan-swing a ostatní světové beaty)
+
+    - kdo: "ZOOBLASTERS"
+      popis: "(house-electro-balkan-swing a ostatní světové beaty)"
       kdy: "23:00"	
       fotka: /img/kapely/zooblasters.png
       odkazy:
 	- https://youtu.be/Nh_20KSU6mk?si=xmtyfWnK2U_nIAB2
         - https://www.zooblasters.com
+
+
+
 - den: sobota 10. srpna 2024
-  kde: Boskovice, za muzeem (Hradní 1)
+  kde: Boskovice, za muzeem
   akce:
-    - kdo: Vítěz dětské porty
-      popis: "(vítězové dětské porty ze Skalice nad Svitavou)"
+
+    - kdo: "Vítěz dětské porty"
+      popis: "(Vítězové dětské porty ze Skalice nad Svitavou)"
       kdy: "14:30
-    - kdo: LÍSKY vs. ALLIMP
+
+    - kdo: "LÍSKY vs. ALLIMP"	
       popis: "(improvizační zápas / Boskovice vs. Ostrava)"
       kdy: "17:30"
       fotka: /img/kapely/lisky.png
-    - kdo: ?
+
+
+    - kdo: "?"
       popis: "(world music-world music)"
       kdy: "21:00"
-    - kdo: ANALOGUE BIRDS (DE)
+
+    - kdo: "ANALOGUE BIRDS (DE)"
       popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
       kdy: "23:00"
       fotka: /img/kapely/analoguebirds.png
