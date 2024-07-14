@@ -4,7 +4,7 @@
     - kdo: "Ohlasy naživo"
       popis: "Ohlasy naživo"
       kdy: "18:00"
-      fotka: /img/kapely/ohlasy.jpg
+      fotka: /img/kapely/2024/ohlasy.jpg
       odkazy:   
         - https://ohlasy.info/podcast/
 
@@ -14,7 +14,7 @@
     - kdo: "VOJTA VIOLINIST"
       popis: "(ethno-keltských-world music)"
       kdy: "19:00"	
-      fotka: /img/kapely/vojta.png
+      fotka: /img/kapely/2024/vojta.jpg
       odkazy:
         - https://youtu.be/Au2xndj1IFo?si=I-pI1vIF8DwcyGL6&t=73
         - https://www.vojtaviolinist.com
@@ -22,14 +22,14 @@
     - kdo: "ARROGANT TWINS"
       popis: "(rock'n'roll-punk  | CZ/UK)"
       kdy: "21:00"
-      fotka: /img/kapely/arroganttwins.jpg
+      fotka: /img/kapely/2024/arroganttwins.jpg
       odkazy:
         - https://youtu.be/1hyvXsoFpuo?si=W4yrF_A1tMxY3xIF
 
     - kdo: "ZOOBLASTERS"
       popis: "(house-electro-balkan-swing a ostatní světové beaty)"
       kdy: "23:00"	
-      fotka: /img/kapely/zooblasters.jpg
+      fotka: /img/kapely/2024/zooblasters.jpg
       odkazy:
         - https://youtu.be/Nh_20KSU6mk?si=xmtyfWnK2U_nIAB2
         - https://www.zooblasters.com
@@ -46,7 +46,7 @@
     - kdo: "LÍSKY vs. ALLIMP"	
       popis: "(improvizační zápas / Boskovice vs. Ostrava)"
       kdy: "17:30"
-      fotka: /img/kapely/lisky.jpg
+      fotka: /img/kapely/2024/lisky.jpg
 
     - kdo: "?"
       popis: "(world music-world music)"
@@ -55,7 +55,7 @@
     - kdo: "ANALOGUE BIRDS (DE)"
       popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
       kdy: "23:00"
-      fotka: /img/kapely/analoguebirds.jpg
+      fotka: /img/kapely/2024/analoguebirds.jpg
       odkazy:
         - https://youtu.be/OX6iRJlfw0g?si=mTbhnlc2G1FNDtPx
         - https://analoguebirds.bandcamp.com/album/little-creatures
