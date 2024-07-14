@@ -48,23 +48,12 @@
       popis: "(improvizační zápas / Boskovice vs. Ostrava)"
       kdy: "17:30"
       fotka: /img/kapely/lisky.png
-      odkazy:   
-        - 
-    - kdo: 
-      popis: ""
-      kdy: "19:00"
-      fotka: /img/kapely/.png
-      odkazy:
-        - 
-        - 
-    - kdo: 
+
+
+    - kdo: ?
       popis: "(world music-world music)"
       kdy: "21:00"
-      fotka: /img/kapely/.png
-      odkazy:
-        - 
-        - 
-        - 
+
     - kdo: ANALOGUE BIRDS (DE) 
       popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
       kdy: "23:00"
@@ -72,4 +61,3 @@
       odkazy:
         - https://youtu.be/OX6iRJlfw0g?si=mTbhnlc2G1FNDtPx
         - https://analoguebirds.bandcamp.com/album/little-creatures
-        - 
