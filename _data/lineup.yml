@@ -39,7 +39,7 @@
 - den: sobota 10. srpna 2024
   kde: Boskovice, za muzeem
   akce:
-    - kdo: "Vítěz dětské porty"
+   - kdo: "Vítěz dětské porty"
       popis: "(Vítězové dětské porty ze Skalice nad Svitavou)"
       kdy: "14:30
 
@@ -47,7 +47,6 @@
       popis: "(improvizační zápas / Boskovice vs. Ostrava)"
       kdy: "17:30"
       fotka: /img/kapely/lisky.png
-
 
     - kdo: "?"
       popis: "(world music-world music)"
