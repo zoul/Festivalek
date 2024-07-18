@@ -48,9 +48,14 @@
       kdy: "17:30"
       fotka: /img/kapely/2024/lisky.jpg
 
-    - kdo: "?"
+    - kdo: "BUBLICZKI"
       popis: "(world music-world music)"
       kdy: "21:00"
+      fotka: /img/kapely/2024/bubliczki.jpg
+      odkazy:
+        - https://youtu.be/6f7uNCHI5aM?si=sN0fwNHbbVDQno1t&t=52
+        - http://bubliczki.com
+
 
     - kdo: "ANALOGUE BIRDS"
       popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
