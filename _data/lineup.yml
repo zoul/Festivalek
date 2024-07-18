@@ -2,7 +2,7 @@
   kde: Boskovice, Prostor
   akce:
     - kdo: "Ohlasy naživo"
-      popis: "rozhovor"
+      popis: "(rozhovor)"
       kdy: "18:00"
       fotka: /img/kapely/2024/ohlasy.jpg
       odkazy:   
@@ -27,7 +27,7 @@
         - https://youtu.be/1hyvXsoFpuo?si=W4yrF_A1tMxY3xIF
 
     - kdo: "ZOOBLASTERS"
-      popis: "(house-electro-balkan-swing a ostatní světové beaty)"
+      popis: "(house-electro-balkan-swing)"
       kdy: "23:00"	
       fotka: /img/kapely/2024/zooblasters.jpg
       odkazy:
@@ -49,7 +49,7 @@
       fotka: /img/kapely/2024/lisky.jpg
 
     - kdo: "BUBLICZKI [PL]"
-      popis: "(vášnivý balkánský klezmer - Gypsy Brass | Polsko)"
+      popis: "(vášnivý balkánský klezmer, Gypsy brass | Polsko)"
       kdy: "21:00"
       fotka: /img/kapely/2024/bubliczki.jpg
       odkazy:
