@@ -40,7 +40,7 @@
   kde: Boskovice, za muzeem
   akce:
     - kdo: "Vítěz dětské porty"
-      popis: "(Vítězové dětské porty ze Skalice nad Svitavou)"
+      popis: "(vítězové dětské porty)"
       kdy: "14:30"
       
     - kdo: "LÍSKY vs. ALLIMP"	
@@ -49,7 +49,7 @@
       fotka: /img/kapely/2024/lisky.jpg
 
     - kdo: "BUBLICZKI [PL]"
-      popis: "(vášnivý balkánský klezmer, Gypsy brass | Polsko)"
+      popis: "(balkán-klezmer-Gypsy brass | Polsko)"
       kdy: "21:00"
       fotka: /img/kapely/2024/bubliczki.jpg
       odkazy:
@@ -58,7 +58,7 @@
 
 
     - kdo: "ANALOGUE BIRDS [DE]"
-      popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
+      popis: "(Drum'n'Bass, Dubstep a World Music | Německo)"
       kdy: "23:00"
       fotka: /img/kapely/2024/analoguebirds.jpg
       odkazy:
