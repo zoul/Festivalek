@@ -12,15 +12,15 @@
   kde: Boskovice, za muzeem
   akce:
     - kdo: "VOJTA VIOLINIST"
-      popis: "(ethno-keltských-world music)"
+      popis: "(ethno-keltský-world music)"
       kdy: "19:00"	
       fotka: /img/kapely/2024/vojta.jpg
       odkazy:
         - https://youtu.be/Au2xndj1IFo?si=I-pI1vIF8DwcyGL6&t=73
         - https://www.vojtaviolinist.com
 
-    - kdo: "ARROGANT TWINS"
-      popis: "(rock'n'roll-punk | CZ/UK)"
+    - kdo: "ARROGANT TWINS [CZ/UK]"
+      popis: "(rock'n'roll-punk)"
       kdy: "21:00"
       fotka: /img/kapely/2024/arroganttwins.jpg
       odkazy:
@@ -48,8 +48,8 @@
       kdy: "17:30"
       fotka: /img/kapely/2024/lisky.jpg
 
-    - kdo: "BUBLICZKI"
-      popis: "(world music-world music)"
+    - kdo: "BUBLICZKI [PL]"
+      popis: "(vášnivý balkánský klezmer - Gypsy Brass | Polsko)"
       kdy: "21:00"
       fotka: /img/kapely/2024/bubliczki.jpg
       odkazy:
@@ -57,7 +57,7 @@
         - http://bubliczki.com
 
 
-    - kdo: "ANALOGUE BIRDS"
+    - kdo: "ANALOGUE BIRDS [DE]"
       popis: "(Drum'n'Bass, Dubstep, Dancehall a World Music | Německo)"
       kdy: "23:00"
       fotka: /img/kapely/2024/analoguebirds.jpg
