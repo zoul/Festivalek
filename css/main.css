@@ -51,15 +51,15 @@ a:focus {
   margin: auto;
   max-width: 100%;
 }
+
 h1 {
   width: 100%;
-  padding-top: 57%;
-  margin-top: 0;
+  aspect-ratio: 970/773;
+  margin: 0;
   line-height: 1.2em;
-  background: url("/img/logo23.png") top left no-repeat;
-  background-size: 270px auto;
-  background-position: center top;
-  height: 0;
+  background-image: url("/img/logo23.png");
+  background-size: cover;
+  text-indent: -9999px;
   overflow: hidden;
 }
 
