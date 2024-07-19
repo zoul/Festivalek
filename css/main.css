@@ -1,219 +1,221 @@
 body {
-    background: url(/img/paper.png);
+  background: url(/img/paper.png);
 }
 
 /* Typography */
 
 body {
-    font-family: Roboto, sans-serif;
-    font-size: 18px;
-    line-height: 1.5em;
-    color: #444;
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  line-height: 1.5em;
+  color: #444;
 }
 
-h1, h2 {
-    font-size: 30px;
-    font-weight: 600;
+h1,
+h2 {
+  font-size: 30px;
+  font-weight: 600;
 }
 
 h2 small {
-    font-size:13.8px
+  font-size: 13.8px;
 }
 
 ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 img {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
 }
 a,
 a:hover,
 a:focus {
-    color: #223239;
+  color: #223239;
 }
 /* Header */
 
 #navigation {
-    background-color: rgb(244, 193, 30);
-    box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
-    padding: 30px;
-    padding-bottom: 30px;
-    margin-bottom: 20px;
-    color:#fff;  
+  background-color: rgb(244, 193, 30);
+  box-shadow: 0px 2px 3px rgba(80, 80, 80, 0.5);
+  padding: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  color: #fff;
 }
 
 .page-title {
-    width: 390px;
-    margin: auto;
-    max-width: 100%;
+  width: 390px;
+  margin: auto;
+  max-width: 100%;
 }
 h1 {
-    width: 100%;
-    padding-top: 57%;
-    margin-top: 0;
-    line-height: 1.2em;
-    background: url('/img/logo23.png') top left no-repeat;
-    background-size: 270px auto;
-    background-position: center top;
-    height: 0;
-    overflow: hidden;
+  width: 100%;
+  padding-top: 57%;
+  margin-top: 0;
+  line-height: 1.2em;
+  background: url("/img/logo23.png") top left no-repeat;
+  background-size: 270px auto;
+  background-position: center top;
+  height: 0;
+  overflow: hidden;
 }
 
 h1 .subtitle {
-    text-transform: none;
-    font-style: italic;
-    white-space: nowrap;
-    font-size: 90%;
+  text-transform: none;
+  font-style: italic;
+  white-space: nowrap;
+  font-size: 90%;
 }
 
 .kern {
-    letter-spacing: -0.15em;
+  letter-spacing: -0.15em;
 }
 
-h1, h2, #menu {
-    text-transform: uppercase;
+h1,
+h2,
+#menu {
+  text-transform: uppercase;
 }
 
 #navigation .content {
-    text-align: center;
+  text-align: center;
 }
 
 /* Menu */
 
 #menu {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    font-size: 120%;
-    margin-top: 20px;
-    display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 120%;
+  margin-top: 20px;
+  display: inline-block;
 }
 
 #menu li {
-    margin: 0;
-    padding: 0;
-    display: inline-block;
-    position: relative;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  position: relative;
 }
 
 #menu li:not(:last-child):after {
-    content: "/";
-    color: #223239;
-    padding-left: 3px;
-    padding-right: 0px;
+  content: "/";
+  color: #223239;
+  padding-left: 3px;
+  padding-right: 0px;
 }
 
 #menu a {
-    color: #223239;
-    text-decoration: none;
+  color: #223239;
+  text-decoration: none;
 }
 /* Program */
 
 .band {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 .band-image {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* Pick */
 
-
 body.informace #menu li.informace a:after,
-body.program   #menu li.program   a:after,
-body.fotky     #menu li.fotky     a:after {
-    content: "";
-    position: absolute;
-    display: inline-block;
-    background: url(/img/pick.png) top left no-repeat;
-    background-size: contain;
-    bottom: -65px;
-    left: 7px;
-    width: 58px;
-    height: 65px;
+body.program #menu li.program a:after,
+body.fotky #menu li.fotky a:after {
+  content: "";
+  position: absolute;
+  display: inline-block;
+  background: url(/img/pick.png) top left no-repeat;
+  background-size: contain;
+  bottom: -65px;
+  left: 7px;
+  width: 58px;
+  height: 65px;
 }
 
 /* Footer */
 
 #footer {
-    margin-top: 30px;
-    padding-bottom: 40px;
-    padding-top: 30px;
-    background: #494748 ;
-    box-shadow: 0px -2px 3px rgba(80, 80, 80, 0.5);
-    color: white;
+  margin-top: 30px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+  background: #494748;
+  box-shadow: 0px -2px 3px rgba(80, 80, 80, 0.5);
+  color: white;
 }
 
 /* Contacts */
 
 ul.facts {
-    list-style: disc;
+  list-style: disc;
 }
 
 .card {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .card .role {
-    color: grey;
-    font-style: italic;
+  color: grey;
+  font-style: italic;
 }
 
 .role.inline:before {
-    content: "· ";
+  content: "· ";
 }
 
 /* Partners */
 
 .partner {
-    display: inline-block;
-    margin-right: 10px;
-    margin-bottom: 10px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .partner img {
-    width: 100px;
+  width: 100px;
 }
 
 /* Photos */
 
 .gallery {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 /* Lineup */
 
-.container{
-    max-width: 100%;
+.container {
+  max-width: 100%;
 }
 
 hr {
-    margin-top: 60px;
-    margin-bottom: 20px;
-    border: 0;
-    border-top: 2px solid #223239;
-    width: 100%;
-    max-width: 800px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 2px solid #223239;
+  width: 100%;
+  max-width: 800px;
 }
 
 @media only screen and (max-width: 550px) {
-    body.informace #menu li.informace a:after,
-    body.program   #menu li.program   a:after,
-    body.fotky     #menu li.fotky     a:after {
-        display: none;
-    }
-    body.informace #menu li.informace a,
-    body.program   #menu li.program   a,
-    body.fotky     #menu li.fotky     a {
-        text-decoration: underline;
-    }
+  body.informace #menu li.informace a:after,
+  body.program #menu li.program a:after,
+  body.fotky #menu li.fotky a:after {
+    display: none;
+  }
+  body.informace #menu li.informace a,
+  body.program #menu li.program a,
+  body.fotky #menu li.fotky a {
+    text-decoration: underline;
+  }
 }
 
 @media (min-width: 992px) {
-    .container {
-        max-width: 800px;
-    }
+  .container {
+    max-width: 800px;
+  }
 }
