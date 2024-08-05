@@ -7,15 +7,15 @@
 - id: Allegro
   jmeno: Allegro
   url: https://www.allegro-software.cz/
-- id: Artron
-  jmeno: Artron
-  url: https://artron.cz/
+#- id: Artron
+#  jmeno: Artron
+#  url: https://artron.cz/
 - id: Bernard
   jmeno: Bernard
   url: https://www.bernard.cz/
-- id: Bambas
-  jmeno: Bambas
-  url: http://www.bares-bambas.cz
+#- id: Bambas
+#  jmeno: Bambas
+#  url: http://www.bares-bambas.cz
 - id: Beewatec
   jmeno: Beewatec
   url: https://www.beewatec.com/
@@ -34,9 +34,9 @@
 - id: Ldseating
   jmeno: LD Seating
   url: https://ldseating.com/cs
-- id: Minerva
-  jmeno: Minerva
-  url: https://www.minerva-boskovice.cz/
+#- id: Minerva
+#  jmeno: Minerva
+#  url: https://www.minerva-boskovice.cz/
 - id: Monielli
   jmeno: Monielli
   url: https://monielli.cz
@@ -52,12 +52,12 @@
 - id: Prazska5
   jmeno: Prazska5
   url: https://www.boskovice-panskydvur.cz/
-- id: Panskydvur
-  jmeno: Panský dvůr
-  url: https://www.boskovice-panskydvur.cz/
-- id: Profound
-  jmeno: Profound
-  url: http://www.profound.cz
+#- id: Panskydvur
+#  jmeno: Panský dvůr
+#  url: https://www.boskovice-panskydvur.cz/
+#- id: Profound
+#  jmeno: Profound
+#  url: http://www.profound.cz
 - id: Proindex
   jmeno: Proindex
   url: http://www.proindex.biz/
