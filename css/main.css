@@ -113,6 +113,9 @@ h2,
   color: #223239;
   text-decoration: none;
 }
+#menu a:hover {
+  text-decoration: underline;
+}
 /* Program */
 
 .band {
@@ -124,18 +127,10 @@ h2,
 
 /* Pick */
 
-body.informace #menu li.informace a:after,
-body.program #menu li.program a:after,
-body.fotky #menu li.fotky a:after {
-  content: "";
-  position: absolute;
-  display: inline-block;
-  background: url(/img/pick.png) top left no-repeat;
-  background-size: contain;
-  bottom: -65px;
-  left: 7px;
-  width: 58px;
-  height: 65px;
+body.informace #menu li.informace a,
+body.program #menu li.program a,
+body.fotky #menu li.fotky a {
+  text-decoration: underline;
 }
 
 /* Footer */
@@ -199,19 +194,6 @@ hr {
   border-top: 2px solid #223239;
   width: 100%;
   max-width: 800px;
-}
-
-@media only screen and (max-width: 550px) {
-  body.informace #menu li.informace a:after,
-  body.program #menu li.program a:after,
-  body.fotky #menu li.fotky a:after {
-    display: none;
-  }
-  body.informace #menu li.informace a,
-  body.program #menu li.program a,
-  body.fotky #menu li.fotky a {
-    text-decoration: underline;
-  }
 }
 
 @media (min-width: 992px) {
