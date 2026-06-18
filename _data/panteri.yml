@@ -1,6 +1,6 @@
 - id: ARTrealizace
   jmeno: ARTrealizace
-  url: https://www.artrealizace.cz/
+  url: https://www.artrealizace.cz
 - id: Agshruby
   jmeno: AGS Hrubý
   url: http://www.hruby-ags.com/
@@ -28,15 +28,30 @@
 - id: Colorprofi
   jmeno: Colorprofi
   url: https://www.colorprofi.cz
+- id: Gresmont
+  jmeno: Gresmont
+  url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
 - id: Galeriezwicker
   jmeno: Galerie Zwicker
   url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
 #- id: Kooplast
 #  jmeno: Kooplast
 #  url: https://www.kooplast.cz/
-- id: KP Design
+- id: Itab
+  jmeno: Itab
+  url: https://itab.com
+- id: Jarusek
+  jmeno: Jarůšek
+  url: https://www.facebook.com/profile.php?id=100046106487111&locale=cs_CZ
+  - id: Kindermann
+  jmeno: Kindermann
+  url: https://www.kindermann.cz/
+- id: Koudelka
   jmeno: KPdesign
   url: https://kp-design.cz/
+- id: Kopecky
+  jmeno: Kopecky
+  url: https://kopeckycz.cz
 - id: Legdan
   jmeno: Legdan
   url: https://www.legdan.cz/cs/
@@ -58,6 +73,9 @@
 - id: Opticar
   jmeno: Opticar
   url: http://www.opticar.cz
+- id: Pecarka
+  jmeno: Pecarka
+  url: 
 #- id: Prazska5
 #  jmeno: Prazska5
 #  url: https://www.boskovice-panskydvur.cz/
@@ -73,10 +91,16 @@
 #- id: UNICOOLTECH
 #  jmeno: Unicooltech
 #  url: https://www.unicooltech.cz
+- id: Slavicek
+  jmeno: Slavicek
+  url: https://www.pohrebni-sluzba-boskovice.cz/
+- id: Topnet
+  jmeno: Topnet
+  url: https://www.topnet.cz/
 - id: Urudyho
   jmeno: U Rudyho
-  url: http://www.urudyho.eu/´
-- id: Venavalnoha
+  url: http://www.urudyho.eu/
+- id: Vena
   jmeno: Vena Valnoha
   url: https://www.venavalnoha.cz/
 - id: Vkvdrevo
