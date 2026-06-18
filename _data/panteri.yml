@@ -4,18 +4,18 @@
 - id: Agshruby
   jmeno: AGS Hrubý
   url: http://www.hruby-ags.com/
-- id: Allegro
-  jmeno: Allegro
-  url: https://www.allegro-software.cz/
+#- id: Allegro
+#  jmeno: Allegro
+#  url: https://www.allegro-software.cz/
 #- id: Artron
 #  jmeno: Artron
 #  url: https://artron.cz/
 - id: Bernard
   jmeno: Bernard
   url: https://www.bernard.cz/
-#- id: Bambas
-#  jmeno: Bambas
-#  url: http://www.bares-bambas.cz
+- id: Bambas
+  jmeno: Bambas
+  url: http://www.bares-bambas.cz
 - id: Beewatec
   jmeno: Beewatec
   url: https://www.beewatec.com/
@@ -25,9 +25,9 @@
 - id: Galeriezwicker
   jmeno: Galerie Zwicker
   url: https://www.facebook.com/pages/category/Art-Gallery/Mini-Galerie-Zwicker-Boskovice-753676981390785/
-- id: Kooplast
-  jmeno: Kooplast
-  url: https://www.kooplast.cz/
+#- id: Kooplast
+#  jmeno: Kooplast
+#  url: https://www.kooplast.cz/
 - id: KP Design
   jmeno: KPdesign
   url: https://kp-design.cz/
@@ -40,9 +40,9 @@
 #- id: Minerva
 #  jmeno: Minerva
 #  url: https://www.minerva-boskovice.cz/
-- id: Monielli
-  jmeno: Monielli
-  url: https://monielli.cz
+#- id: Monielli
+#  jmeno: Monielli
+#  url: https://monielli.cz
 - id: Naceste
   jmeno: NaCeste
   url: https://na-ceste.cz
@@ -52,9 +52,9 @@
 - id: Opticar
   jmeno: Opticar
   url: http://www.opticar.cz
-- id: Prazska5
-  jmeno: Prazska5
-  url: https://www.boskovice-panskydvur.cz/
+#- id: Prazska5
+#  jmeno: Prazska5
+#  url: https://www.boskovice-panskydvur.cz/
 #- id: Panskydvur
 #  jmeno: Panský dvůr
 #  url: https://www.boskovice-panskydvur.cz/
@@ -64,9 +64,9 @@
 - id: Proindex
   jmeno: Proindex
   url: http://www.proindex.biz/
-- id: UNICOOLTECH
-  jmeno: Unicooltech
-  url: https://www.unicooltech.cz
+#- id: UNICOOLTECH
+#  jmeno: Unicooltech
+#  url: https://www.unicooltech.cz
 - id: Urudyho
   jmeno: U Rudyho
   url: http://www.urudyho.eu/´
