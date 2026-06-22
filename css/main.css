@@ -1,5 +1,5 @@
 body {
-  background: url(/img/paper.png);
+  background: #fff;
 }
 
 /* Typography */
@@ -57,21 +57,10 @@ h1 {
   aspect-ratio: 970/773;
   margin: 0;
   line-height: 1.2em;
-  background-image: url("/img/logo.png");
+  background-image: url("/img/festivalek-logo26-2.png");
   background-size: cover;
   text-indent: -9999px;
   overflow: hidden;
-}
-
-h1 .subtitle {
-  text-transform: none;
-  font-style: italic;
-  white-space: nowrap;
-  font-size: 90%;
-}
-
-.kern {
-  letter-spacing: -0.15em;
 }
 
 h1,
