@@ -12,7 +12,7 @@ class: program
                 <h3>{{ band.kdo }} <small>{{ band.popis }}</small>{{ band.kdy }}</h3>
 
                 {% if band.odkazy %}
-                    <a href="{{ band.odkazy | first }}">
+                    <a href="{{ band.odkazy | first }}" target="_blank">
                 {% endif %}
                 <img class="band-image" src="{{ band.fotka }}">
                 {% if band.odkazy %}
@@ -21,7 +21,7 @@ class: program
                 {% if band.odkazy %}
                     <ul class="link-list">
                     {% for url in band.odkazy %}
-                        <li><a href="{{ url }}">{{ url | remove:'http://' | remove:'https://' | remove_first:'www.' | split:'/' | first }}</a>
+                        <li><a href="{{ url }}" target="_blank">{{ url | remove:'http://' | remove:'https://' | remove_first:'www.' | split:'/' | first }}</a>
                     {% endfor %}
                     </ul>
                 {% endif %}
