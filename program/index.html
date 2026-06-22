@@ -11,7 +11,13 @@ class: program
             <div class="band">
                 <h3>{{ band.kdo }} <small>{{ band.popis }}</small>{{ band.kdy }}</h3>
 
+                {% if band.odkazy %}
+                    <a href="{{ band.odkazy | first }}">
+                {% endif %}
                 <img class="band-image" src="{{ band.fotka }}">
+                {% if band.odkazy %}
+                    </a>
+                {% endif %}
                 {% if band.odkazy %}
                     <ul class="link-list">
                     {% for url in band.odkazy %}
