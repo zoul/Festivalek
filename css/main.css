@@ -113,10 +113,11 @@ h2,
 }
 .band h3 small {
   display: block;
-  margin-bottom: 8px;
+  margin-top: 4px;
+  margin-bottom: 12px;
 }
 .band-image {
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 /* Pick */
