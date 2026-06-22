@@ -190,4 +190,14 @@ hr {
   .container {
     max-width: 800px;
   }
+  .lineup {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .band {
+    width: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
