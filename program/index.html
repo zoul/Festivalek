@@ -9,7 +9,7 @@ class: program
         <h2 class="day">{{ day.den }} <small>{{ day.kde }}</small></h2>
         {% for band in day.akce %}
             <div class="band">
-                <h3>{{ band.kdo }} <small>{{ band.popis }}</small></br>{{ band.kdy }}</h3>
+                <h3>{{ band.kdo }} <small>{{ band.popis }}</small>{{ band.kdy }}</h3>
 
                 <img class="band-image" src="{{ band.fotka }}">
                 {% if band.odkazy %}

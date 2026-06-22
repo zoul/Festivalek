@@ -200,4 +200,7 @@ hr {
     padding-left: 15px;
     padding-right: 15px;
   }
+  .band h3 small {
+    display: block;
+  }
 }
